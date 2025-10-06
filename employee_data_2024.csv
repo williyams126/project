@@ -1,0 +1,1001 @@
+EmployeeID,Year,Name,Department,Designation,Salary,Status,JoiningDate,ExitDate,PhoneNumber,Email
+E0001,2024,Kendra White,Finance,Developer,38828,Active,2021-05-27,,006.018.4712x2927,mcmillanchristina@ramirez.com
+E0002,2024,Christopher Campos,Finance,Lead,102900,Active,2013-07-18,,001-235-826-1840,
+E0003,2024,Heidi Jefferson,Operations,Lead,115682,Resigned,2023-08-10,,,woodsjohn@page.com
+E0004,2024,Adam Valencia,Sales,Intern,118545,Active,2022-10-07,,249-664-3716,ymurray@morris.com
+E0005,2024,Lori Bender,Sales,Senior Manager,134557,Active,2021-03-06,,672-737-1308,rwall@bowman-tapia.com
+E0006,2024,Kevin Rios,Marketing,Lead,138901,Active,2021-11-07,,,linalexandra@foley.com
+E0007,2024,Lee Duncan,Operations,Manager,144258,Active,2023-03-10,2024-10-28,(935)703-1419,knapphenry@perez-davis.com
+E0008,2024,Albert Bradley,Marketing,Developer,36969,Resigned,2018-01-09,,939-462-5243x614,smithandrea@hotmail.com
+E0009,2024,April Weber,IT,Developer,114076,Active,2023-07-27,2024-08-09,917.470.7977,williamsandrew@hotmail.com
+E0010,2024,Debra Rosales,HR,Analyst,103389,Active,2018-12-02,,,
+E0011,2024,Melissa Gray,Sales,Lead,78992,Active,2021-07-28,2024-05-16,998-515-5232x50329,zcantrell@gmail.com
+E0012,2024,Kathy Gonzalez,Finance,,38513,Active,2015-04-20,,001-223-093-3064,ganderson@yahoo.com
+E0013,2024,Tracey Trevino,Sales,Intern,139758,Resigned,2019-08-15,,549-686-8531,
+E0014,2024,Sandra Jones,HR,Manager,52880,Active,2023-04-10,,8820536811,deborahmeyer@yahoo.com
+E0015,2024,Alice Chavez,Marketing,Intern,100298,Active,2021-02-09,,573.534.9154x272,
+E0016,2024,Henry Green,Marketing,Developer,70307,Active,2013-03-01,,(243)224-0326,dawnchan@moore.com
+E0017,2024,Kyle Huber,Marketing,Analyst,135804,Active,2018-04-17,,001-481-175-7701x98672,larrycharles@yahoo.com
+E0018,2024,James Kerr,Marketing,Manager,72738,Active,2021-12-17,,001-766-804-4059x09991,joseph40@ortiz.net
+E0019,2024,Warren Medina,Sales,Developer,29112,Resigned,2021-08-07,,1895607137,beardnicholas@hotmail.com
+E0020,2024,Heather Gay,Marketing,Analyst,96691,Active,2019-12-13,,,qlove@hotmail.com
+E0021,2024,Thomas Savage,Marketing,Senior Manager,45808,Active,2016-04-14,,,djones@moreno-knight.net
+E0022,2024,Angela Wood,HR,Developer,87832,Resigned,2023-03-07,,001-748-829-8953x11822,judith07@hotmail.com
+E0023,2024,Teresa Johnson,Operations,Lead,98522,Active,2019-06-28,,,colinbailey@stephens-gill.net
+E0024,2024,Michele Gutierrez,IT,Analyst,141127,Active,2021-07-11,,,
+E0025,2024,Hannah Hutchinson,HR,Manager,146019,Active,2019-05-04,,(116)343-6423x8568,haledylan@gmail.com
+E0026,2024,Katie Brown,IT,Senior Manager,98134,Resigned,2021-06-22,,,hoconnor@smith.com
+E0027,2024,Greg Moody,Marketing,Developer,58549,Active,2013-07-21,,+1-165-941-7395x18375,obrienkatherine@reed-martinez.com
+E0028,2024,Melissa Gutierrez,Operations,Developer,42067,Resigned,2023-02-05,,,mooremichael@bradley-reed.com
+E0029,2024,Teresa Ferguson,IT,Intern,75973,Active,2016-09-30,,(047)712-8024x2407,leah20@hotmail.com
+E0030,2024,Mckenzie Moody,Marketing,Manager,102584,Resigned,2019-05-25,,001-239-985-8961x401,roblesronald@hotmail.com
+E0031,2024,Stephanie Khan,Operations,Manager,62976,Active,2019-07-04,,856.583.9455x840,chloemcconnell@galvan-singleton.com
+E0032,2024,Jerry Harris,Sales,Lead,108204,Active,2016-11-05,,910.883.9245x36272,ztaylor@bishop.com
+E0033,2024,Wanda Best,Finance,Intern,107478,Active,2014-12-05,,001-663-207-6722,idavis@gmail.com
+E0034,2024,Mrs. Amanda Brown,Marketing,Analyst,154839,Active,2022-08-15,,941.690.7182,
+E0035,2024,Wayne Diaz,Finance,Senior Manager,99306,Resigned,2021-12-10,2024-03-31,,bushsean@russell.com
+E0036,2024,Thomas Johnson,Sales,Intern,146258,Active,2014-12-01,,+1-922-890-2553x390,irwinelizabeth@hotmail.com
+E0037,2024,Ronald Wong,Marketing,Senior Manager,112695,Active,2013-11-08,,(069)496-7045x0618,ivincent@gmail.com
+E0038,2024,Brittany Newman,Finance,Lead,28414,Active,2018-11-13,,(041)151-6737,johngriffith@hernandez.com
+E0039,2024,Brandon Cochran,IT,Analyst,91409,Active,2019-06-20,,352-932-9999x63843,
+E0040,2024,Danielle Santana,HR,Senior Manager,109487,Resigned,2014-09-21,2024-06-09,552.393.0133x454,fullerjonathan@yahoo.com
+E0041,2024,Christopher Bowers,Marketing,Manager,29522,Resigned,2014-07-09,,531-706-5057x0000,moraleserik@grimes.com
+E0042,2024,Jessica Saunders,IT,Developer,102709,Resigned,2022-02-04,,,michaelcook@flores.com
+E0043,2024,Scott Davis,Marketing,Developer,31785,Resigned,2013-05-18,,,michael30@hotmail.com
+E0044,2024,Jonathan Todd,Operations,Manager,80920,Active,2020-05-21,2024-05-13,8965087729,leenichole@hotmail.com
+E0045,2024,Joseph Lester,Finance,Developer,76868,Active,2013-08-13,,001-193-117-8173x366,
+E0046,2024,John Black,Finance,Lead,32931,Resigned,2015-05-18,,,imiddleton@wright.com
+E0047,2024,Nancy Nixon,HR,Senior Manager,42873,Active,2021-10-23,,081-788-2752,croach@gmail.com
+E0048,2024,Eugene Burke,IT,Senior Manager,27483,Active,2023-05-15,2024-05-25,041.254.1641x06479,elozano@gmail.com
+E0049,2024,Barbara Trevino,HR,Analyst,99863,Active,2016-12-30,,8444954058,shafferaustin@terry.net
+E0050,2024,Laura Burns,Sales,Lead,52014,Active,2021-05-24,,+1-019-816-4134,jonathanknox@wilkins.net
+E0051,2024,Elizabeth Gates,HR,Developer,141246,Active,2015-02-15,,004.076.2509x573,torresmichelle@sparks.com
+E0052,2024,Greg Rodriguez,Finance,Senior Manager,117096,Active,2020-08-02,,(448)894-8799,dwilkerson@coleman-garcia.com
+E0053,2024,Angelica Richards,Sales,Lead,54316,Active,2022-11-20,,882.932.2206x9599,fhodges@yahoo.com
+E0054,2024,Eileen Lewis,HR,Intern,129443,Active,2017-06-19,,(285)243-5512x605,
+E0055,2024,Michelle Mejia,Finance,Manager,131686,Active,2021-05-17,2024-03-24,,ccortez@yahoo.com
+E0056,2024,Ms. Erin Weaver MD,Marketing,Intern,73267,Active,2014-03-29,,(942)926-2041x6855,emoore@yahoo.com
+E0057,2024,Andrew Carroll,HR,Analyst,36740,Active,2018-07-27,,(316)717-7926x85641,coxnatalie@yahoo.com
+E0058,2024,Mike Mckinney,IT,Developer,85849,Active,2017-10-22,,,tammy77@smith.com
+E0059,2024,Jeffrey Smith,HR,Senior Manager,98097,Resigned,2020-12-09,,+1-692-091-8406x11204,debra75@hotmail.com
+E0060,2024,Casey Waller,Marketing,Lead,76266,Active,2013-08-10,,(804)557-8457x996,pgreen@hotmail.com
+E0061,2024,Courtney Lane,Sales,Manager,107970,Active,2023-11-15,,141-183-6140x6022,william05@yahoo.com
+E0062,2024,Tracey Ford,HR,Manager,56918,Active,2016-01-20,,+1-011-353-0084,qgonzalez@gmail.com
+E0063,2024,Benjamin King,Sales,Intern,105873,Resigned,2019-03-17,,070.377.2173,jasmine38@hotmail.com
+E0064,2024,Terry Guzman,Marketing,Senior Manager,130723,Active,2018-04-23,,443.701.6332x55355,theodorejones@yahoo.com
+E0065,2024,Andrew Jacobs,Finance,Senior Manager,33765,Resigned,2019-06-26,,,
+E0066,2024,Anthony Santiago,IT,Lead,38395,Active,2016-01-20,2024-08-03,050-367-8850x17273,msmith@buck-robinson.com
+E0067,2024,Katherine Payne,Operations,Intern,66395,Active,2021-08-25,,+1-841-876-2704x09167,kimberlybell@reed.biz
+E0068,2024,John Owens,Finance,Analyst,123925,Active,2022-05-05,,803-426-6484,ashleygriffith@yahoo.com
+E0069,2024,Christine Short,Marketing,Developer,121000,Active,2019-03-22,,9391614067,chandavid@hotmail.com
+E0070,2024,Ethan Lane,HR,Manager,87174,Resigned,2020-02-10,2024-11-24,4059711469,zrose@hotmail.com
+E0071,2024,Brittany Sullivan,Sales,Manager,143895,Active,2019-07-06,,3660627692,samuel94@schmidt-williams.com
+E0072,2024,Kimberly Washington,Marketing,Developer,84784,Resigned,2015-12-19,,872-211-8392,
+E0073,2024,Eric Garza,HR,Developer,146167,Active,2015-11-07,,,sullivaneric@hotmail.com
+E0074,2024,David Ford,Marketing,Developer,93091,Active,2022-01-18,,741.351.2016,
+E0075,2024,Mark Farley,Marketing,Manager,50164,Active,2019-05-11,,725-854-6416,dbryant@hotmail.com
+E0076,2024,George Mitchell,HR,Senior Manager,77460,Active,2019-10-05,,(466)189-3319,perezshawn@hotmail.com
+E0077,2024,Kristina Ford,Sales,Manager,99755,Resigned,2021-02-14,,155.661.5406x914,mcmahonalyssa@reyes.com
+E0078,2024,Jeanette Reed,Sales,Developer,43486,Active,2015-01-19,,703-366-0492x55556,gwalsh@williamson.biz
+E0079,2024,Julia Herrera,HR,Manager,74746,Active,2023-10-02,,512-170-1554x5573,mjones@patterson.com
+E0080,2024,Kayla Higgins,Sales,Manager,135839,Active,2023-05-28,,3410991560,kimberly05@johnson.com
+E0081,2024,Jackie Armstrong,Operations,Lead,132024,Active,2016-02-08,,,kdiaz@yahoo.com
+E0082,2024,Heather Little,Sales,Senior Manager,122958,Active,2013-12-20,2024-11-18,,wilsonlynn@gmail.com
+E0083,2024,Rebecca Nicholson,Sales,Analyst,66802,Active,2016-05-01,,330-207-8656,ashleywise@hotmail.com
+E0084,2024,Brittany Scott,Operations,Intern,63656,Active,2018-04-24,,336-547-3797,ptorres@yahoo.com
+E0085,2024,Alec Small,Finance,Analyst,131814,Resigned,2015-09-22,,(519)004-3455,paul53@day.com
+E0086,2024,Alan Johnson,HR,Analyst,104705,Active,2013-05-22,,225-824-8469,
+E0087,2024,Christopher Miller DVM,Marketing,Developer,52580,Resigned,2023-05-01,,(315)696-0170,carl11@yahoo.com
+E0088,2024,Patricia Riggs,HR,Developer,81288,Active,2017-12-10,,498-475-5188x2187,carolyn80@gmail.com
+E0089,2024,Sharon Watts,Finance,Manager,53713,Active,2017-09-23,,(175)384-5688,kevinjohnson@dougherty.net
+E0090,2024,Nathan Allen,Operations,Analyst,103242,Active,2016-06-12,,+1-266-922-8483x6471,danielramsey@keith.org
+E0091,2024,Paul Johnson,Sales,Senior Manager,146709,Active,2021-10-16,,(652)175-4770,morganseth@edwards-richards.info
+E0092,2024,Alexandra Cooper,HR,Manager,73430,Active,2018-10-27,,001-518-396-0479x56881,paul66@fischer.com
+E0093,2024,Donald Palmer MD,HR,Senior Manager,74243,Active,2015-04-04,,,
+E0094,2024,John Lee,Finance,Lead,131249,Active,2021-09-27,2024-05-22,879-443-0000x8266,john61@gmail.com
+E0095,2024,Brian Guzman,Finance,Analyst,27287,Active,2013-11-05,,680-595-4522x036,morgan40@ross-russell.net
+E0096,2024,Victoria Buchanan,Marketing,Senior Manager,35908,Resigned,2023-04-18,,3041789341,theresa64@johnson-long.com
+E0097,2024,Charles Walton,Finance,Developer,82634,Resigned,2018-06-15,,(572)469-5879x56381,jamesblevins@ray-stark.net
+E0098,2024,Christopher Robinson,,Senior Manager,137328,Resigned,2016-04-15,,+1-013-191-6630,jamesallen@peterson.biz
+E0099,2024,Yvette Webster,Finance,Analyst,132081,Active,2020-05-27,,(797)260-6004,hintonpamela@nguyen.com
+E0100,2024,Joshua Santos,HR,Intern,143377,Active,2015-10-18,,,kristenmurray@yahoo.com
+E0101,2024,Kayla Vincent,Operations,Manager,149972,Active,2017-06-03,,542-515-9727x6155,jay03@gmail.com
+E0102,2024,Rachel Lewis,Finance,Lead,94380,Active,2016-12-20,,+1-847-449-4566,barbara46@hotmail.com
+E0103,2024,Nicholas Wallace,Finance,Developer,92455,Active,2021-01-07,,060.440.1301,sylviaheath@smith-grant.com
+E0104,2024,Theresa Livingston,Finance,Senior Manager,36291,Active,2013-06-15,,001-770-360-8929,whitakerwilliam@hotmail.com
+E0105,2024,Brooke Allen,HR,Developer,26823,Resigned,2014-07-24,,001-238-395-1908x3442,barbara33@davis.com
+E0106,2024,Patricia Fischer,Finance,Manager,55821,Active,2013-12-23,,587-435-8074,william70@livingston-jones.org
+E0107,2024,Danny Edwards,Sales,Analyst,83868,Active,2016-05-25,,2362446376,janet13@yahoo.com
+E0108,2024,Nicole Potter,Operations,Intern,127198,Resigned,2015-06-19,,+1-296-045-2399x86554,alexander41@sellers.biz
+E0109,2024,Dennis Bentley,Operations,Intern,81512,Active,2014-10-18,,,dramirez@hotmail.com
+E0110,2024,Shannon Allen,Marketing,Manager,110720,Active,2016-05-09,,+1-875-465-7399x7160,
+E0111,2024,Pam Young,HR,Intern,82585,Resigned,2013-07-04,,523-564-4122x504,
+E0112,2024,Mr. Lawrence Estes,Operations,Senior Manager,85179,Active,2015-02-19,,239-290-1138x77311,
+E0113,2024,Duane Williams,Marketing,Analyst,31987,Active,2020-08-27,,863.524.5307x528,lindsey52@hotmail.com
+E0114,2024,Morgan Stout,Finance,Developer,89413,Resigned,2017-09-25,,001-740-263-5552x78578,cody70@patel-medina.net
+E0115,2024,Charles Lee,IT,Intern,81730,Active,2016-12-27,,(549)684-8342,
+E0116,2024,Megan Hardin,Marketing,Developer,113040,Active,2015-09-05,,(189)665-8146x2724,reneecook@hotmail.com
+E0117,2024,Kristen Collins,HR,Intern,37626,Active,2021-06-15,,773-536-7080,radams@hotmail.com
+E0118,2024,Alexander Wolf Jr.,Operations,Lead,69093,Resigned,2020-11-19,2024-05-05,,melissastephens@gmail.com
+E0119,2024,Tamara Fisher,IT,Senior Manager,54938,Active,2015-06-26,2024-08-05,001-366-613-4818x44143,scottamanda@allen-adams.com
+E0120,2024,Charles Barker,HR,Manager,137906,Active,2022-08-24,,001-207-472-7655x7638,hriley@gmail.com
+E0121,2024,Dana Rodriguez,Marketing,Senior Manager,79907,Active,2023-11-07,,(846)631-3631x21924,
+E0122,2024,Shelia Thomas,Finance,Manager,50607,Active,2016-05-26,,,trevorhoward@yahoo.com
+E0123,2024,Christopher Smith,IT,Senior Manager,100929,Resigned,2016-07-16,,001-220-184-5466,
+E0124,2024,Travis Allen,Finance,Analyst,68527,Resigned,2015-05-27,,001-659-309-8961,beckcheryl@yahoo.com
+E0125,2024,Ryan Anderson,Operations,Manager,47756,Active,2016-09-20,,+1-757-478-9710,diazbrenda@hotmail.com
+E0126,2024,Eric Fox MD,Operations,Developer,98835,Resigned,2019-07-06,,943.258.6014,craigreed@hotmail.com
+E0127,2024,Thomas Lopez,HR,Manager,98687,Resigned,2015-07-21,,738.103.9179,dmartinez@hotmail.com
+E0128,2024,Joanna Lopez,Finance,Lead,96603,Resigned,2013-09-26,,057-123-2510x452,johnsonelizabeth@sanchez.com
+E0129,2024,Wendy Ballard,Finance,Analyst,123501,Resigned,2016-03-31,2024-05-18,854.618.6750,walteralexander@hotmail.com
+E0130,2024,Kathy Mack,Operations,Intern,115356,Active,2016-07-31,2024-08-20,(050)600-9759x79734,shane16@gmail.com
+E0131,2024,Jack Campbell,Marketing,Manager,149654,Active,2017-11-22,,001-542-609-0099x1723,richardstara@stone-simpson.org
+E0132,2024,Michael Cruz,Finance,Developer,93684,Active,2022-10-26,,001-359-280-6067x1088,rachelross@gmail.com
+E0133,2024,April Richmond,Finance,Intern,70681,Active,2015-10-10,2024-06-26,001-910-118-0710x7971,kristylove@hotmail.com
+E0134,2024,Lucas Jacobs,HR,Analyst,115151,Active,2018-09-09,2024-07-21,556-566-7955,stephenstyler@osborn-ellis.com
+E0135,2024,Julie Wright,HR,Analyst,29306,Active,2021-06-10,,(478)013-6762,timothyharris@owens.com
+E0136,2024,Kara Keller,IT,Analyst,87479,Active,2017-03-24,,001-030-356-7345,edwardschristina@lawrence.biz
+E0137,2024,Melanie Preston,Operations,Lead,80001,Resigned,2018-05-09,,001-690-949-7601x45832,annettemoore@fuller-williams.net
+E0138,2024,Jacob Hunter,Operations,Intern,124293,Active,2014-02-25,,(754)328-8355x078,
+E0139,2024,Amanda Cunningham,Operations,Intern,99503,Resigned,2022-04-14,,2250216801,simmonskelly@gmail.com
+E0140,2024,Joshua Smith,Operations,Lead,82323,Active,2022-11-22,,469-914-9472,lthomas@jefferson.com
+E0141,2024,Susan Johnson,HR,Developer,129612,Active,2020-07-20,,(308)266-6591,rachel41@richards.com
+E0142,2024,Donald Kelly,Sales,Senior Manager,153257,Active,2022-12-28,2024-03-04,001-428-371-3028x73694,
+E0143,2024,Shawna Nguyen MD,IT,Senior Manager,93484,Resigned,2016-12-29,,(408)113-9503x308,ufarrell@lambert.com
+E0144,2024,Jeffrey Miranda,Sales,Intern,78771,Active,2023-12-17,,,lindaphillips@gmail.com
+E0145,2024,Timothy Evans,Finance,Lead,92096,Active,2013-08-19,,+1-630-276-8166x426,stephanie54@stevens.biz
+E0146,2024,Shannon Holt,IT,Intern,110569,Resigned,2017-04-17,,+1-324-085-0526x5537,
+E0147,2024,Amber Sloan,Marketing,Lead,116888,Active,2021-09-14,,,tracywatts@yahoo.com
+E0148,2024,Alex Marks,Operations,Developer,33114,Active,2016-03-12,,001-765-051-3886,david01@gmail.com
+E0149,2024,Michael Phillips,Finance,Developer,83782,Resigned,2017-02-28,,(405)043-0071x245,william42@richmond.org
+E0150,2024,Melissa King,Marketing,Analyst,70814,Active,2020-02-25,,(863)696-1095x455,steveaguilar@figueroa.com
+E0151,2024,Brian Gomez,Marketing,Developer,54566,Active,2016-12-29,,(925)074-0836,fmay@rodriguez.com
+E0152,2024,Paul Shah,HR,Developer,39389,Active,2016-11-29,,+1-348-188-2095x872,bakerbenjamin@castillo-dunn.com
+E0153,2024,Lisa Gross,IT,Senior Manager,130706,Active,2020-06-18,,047-534-6027x808,zblack@gmail.com
+E0154,2024,Jill Brock,HR,Intern,46180,Active,2023-04-17,,,dave69@ward-christensen.com
+E0155,2024,Laura Wheeler,Marketing,Manager,82262,Active,2021-06-13,,001-294-489-9363,duffybenjamin@hotmail.com
+E0156,2024,Jorge Black,,Lead,67571,Resigned,2020-02-18,,+1-592-595-8310x48970,msmith@gmail.com
+E0157,2024,Maria Cortez,Finance,Developer,43423,Resigned,2018-02-18,2024-03-07,426-377-5755x24120,rodriguezjohn@yahoo.com
+E0158,2024,Sean Ellis,Sales,Developer,90830,Active,2013-08-01,,721.551.4365,
+E0159,2024,Sharon Kim,Operations,Lead,47404,Resigned,2022-04-05,,,nwhite@jones.net
+E0160,2024,Nicole Davis,Sales,Intern,139002,Active,2018-02-02,,(204)311-0952x970,
+E0161,2024,David Smith,Sales,Intern,55946,Resigned,2021-09-28,2024-06-21,,
+E0162,2024,Jason Walker,Operations,Developer,118471,Active,2018-10-25,,731.254.7690x5118,jenniferjohnson@moreno.com
+E0163,2024,Christopher Alexander,Sales,Lead,144342,Active,2020-05-08,,+1-623-956-9654x4796,dyerbrandon@gmail.com
+E0164,2024,Brianna Cain,Marketing,Senior Manager,121093,Active,2018-10-12,,001-272-718-8873x9060,
+E0165,2024,Jessica Blake MD,Marketing,Intern,98611,Active,2017-09-18,,,
+E0166,2024,Ronald King,HR,Analyst,100660,Resigned,2023-04-27,,+1-924-453-1504x61241,jenniferscott@hotmail.com
+E0167,2024,Kathleen Howard,HR,Manager,92839,Active,2014-11-16,,5989794863,lthomas@lucero.org
+E0168,2024,Tara Williams,Sales,Developer,125108,Active,2023-01-21,,,kpotts@savage.com
+E0169,2024,Madeline Porter,IT,Senior Manager,72987,Active,2014-02-21,,+1-606-752-3794x576,davenportjonathon@jenkins.net
+E0170,2024,Sherri Fisher,Operations,Analyst,33092,Active,2016-06-16,2024-05-25,640.369.9988x310,svargas@gonzales-hernandez.com
+E0171,2024,Jesus Melton,HR,,110414,Active,2013-11-04,,267.613.7330x6006,qadams@hotmail.com
+E0172,2024,William Reynolds,Finance,Manager,99809,Active,2021-10-03,,(804)094-1736x05399,rachael10@hotmail.com
+E0173,2024,Alexander Moore,Marketing,Developer,68127,Active,2020-10-15,,8650717360,hrodriguez@hotmail.com
+E0174,2024,Matthew Sanders,HR,Manager,58469,Resigned,2015-03-30,,(285)097-0819x9952,rodriguezjasmine@henry.org
+E0175,2024,Leroy Hernandez,Operations,Lead,40371,Resigned,2022-03-19,,228.623.2954x5825,craigflores@gmail.com
+E0176,2024,Nicholas Petty,Sales,Analyst,96500,Active,2016-05-07,,(622)872-6900x153,donald17@eaton.org
+E0177,2024,John Lawrence,Sales,Manager,103186,Active,2013-09-10,,,derekward@lewis-lara.net
+E0178,2024,Christina Matthews,,Analyst,43951,Active,2016-08-08,,,desireeparrish@gmail.com
+E0179,2024,Leslie Ray,IT,Senior Manager,126651,Active,2020-08-12,,772.542.3912,
+E0180,2024,Darren Jones,Marketing,Senior Manager,79549,Active,2018-03-11,,+1-309-584-9283x387,cheryl04@anderson.com
+E0181,2024,Jose Clayton,HR,Lead,91108,Active,2017-10-11,,,mcguireisaac@davila.com
+E0182,2024,Michael Brewer,Marketing,Manager,138763,Active,2013-08-01,,001-672-306-0169x27877,forddarlene@gmail.com
+E0183,2024,Michael Mitchell,Finance,Lead,82352,Active,2015-10-11,2024-08-24,059-839-6364,woodardjoseph@hotmail.com
+E0184,2024,Kyle Carr,Operations,Analyst,135244,Active,2019-07-09,,,hannah34@gmail.com
+E0185,2024,Victor Smith,IT,Manager,120722,Active,2021-12-14,,1789025558,derek23@gmail.com
+E0186,2024,Alexander Kim,Finance,Analyst,109848,Active,2018-10-21,,,gerald69@wilson.net
+E0187,2024,Daniel Jarvis,Marketing,Analyst,94896,Active,2021-09-24,,,briana50@wilson.com
+E0188,2024,Micheal Steele,Operations,Developer,101379,Active,2020-07-07,,411-400-4236x08938,
+E0189,2024,Stacy Smith,HR,Intern,97526,Active,2021-12-06,,001-865-299-5420x837,spencerjames@gmail.com
+E0190,2024,Teresa Wright,Operations,Senior Manager,106153,Active,2017-02-20,,,gsmith@chan-wagner.com
+E0191,2024,Bruce Phillips,Operations,Manager,141149,Active,2013-03-18,,350-196-3119x6333,robert26@webb.com
+E0192,2024,Mario Ortiz,HR,Manager,44250,Active,2013-12-18,,197.331.3875,martinandersen@yahoo.com
+E0193,2024,Evelyn Ayers,Marketing,Developer,151646,Active,2016-08-15,,(639)232-6493x9796,william38@bowen-johnson.com
+E0194,2024,David Jones,Sales,Lead,125185,Active,2016-04-30,,,qking@gmail.com
+E0195,2024,Logan Schwartz,Operations,Developer,98640,Active,2015-05-15,,,douglas06@yahoo.com
+E0196,2024,Joe Madden MD,Operations,Intern,119974,Active,2020-10-20,,808-513-3557x266,petersrhonda@gmail.com
+E0197,2024,Kristin Luna,,Lead,91983,Active,2022-09-27,,,emcclure@hotmail.com
+E0198,2024,Benjamin Fernandez,Finance,Developer,71470,Active,2015-08-19,,436.846.9596x04165,
+E0199,2024,Sandra Dixon,IT,Senior Manager,137151,Active,2021-12-04,,551-213-9966x3012,gregorybarnes@hotmail.com
+E0200,2024,Laura Wall,HR,Manager,106550,Resigned,2021-12-29,,+1-854-912-9182,
+E0201,2024,Michele King,Finance,Intern,133309,Active,2014-04-29,,001-001-694-8423x2290,ychung@wallace.org
+E0202,2024,Kathryn Wilkins,HR,Manager,90226,Active,2022-03-09,,+1-345-666-8206x6501,reyescaitlin@wright.com
+E0203,2024,Stephanie King,Marketing,Lead,33179,Active,2019-07-24,2024-11-20,,lewischristopher@hotmail.com
+E0204,2024,Francisco Floyd,Sales,Lead,134603,Active,2021-02-27,,(913)718-7293x6057,lanelynn@walker.com
+E0205,2024,Leslie Smith,Finance,Lead,44756,Active,2014-09-14,2024-10-29,,dkennedy@harding.com
+E0206,2024,Kimberly Garcia,Sales,Intern,49663,Resigned,2013-08-10,,,jose89@montgomery-clark.com
+E0207,2024,Dr. James Perkins,HR,Manager,82729,Active,2022-08-22,2024-03-30,481.521.4691,william78@turner-daugherty.info
+E0208,2024,Jason Poole,Marketing,Intern,79559,Active,2021-10-10,,+1-276-141-5056x39760,sergio95@hotmail.com
+E0209,2024,Michelle Pope,HR,Manager,129659,Active,2014-06-03,,541-535-0725x2076,kimberly64@hotmail.com
+E0210,2024,Robert Avila,HR,Senior Manager,139168,Active,2017-10-26,,001-093-773-0193,wibarra@hotmail.com
+E0211,2024,Lisa Keller,HR,Analyst,99300,Active,2020-11-27,,9986439303,hjohnson@stevens-gonzalez.com
+E0212,2024,Vanessa Dunn,Marketing,Developer,45700,Active,2018-01-18,,,jeffreylewis@bishop.com
+E0213,2024,Jose Larson,HR,Senior Manager,70005,Resigned,2016-08-24,,,jerry53@gmail.com
+E0214,2024,Matthew Robinson,HR,Lead,100335,Resigned,2019-01-07,,+1-536-774-1061x5912,
+E0215,2024,Jessica Simpson,,,115401,Active,2013-12-26,2024-11-18,808-406-0947x021,amber89@stone.com
+E0216,2024,Rebecca Nunez,Sales,Analyst,141710,Resigned,2017-06-20,,084.609.8143,kandersen@bailey-preston.com
+E0217,2024,Brandon Murphy,IT,Lead,153468,Active,2020-09-03,,4773284760,zle@gmail.com
+E0218,2024,Victoria Griffin,Operations,Senior Manager,81111,Active,2022-07-12,,001-070-094-8675x09652,petersonjoseph@rogers.info
+E0219,2024,Tina Wilcox,Sales,Manager,111758,Active,2023-03-21,,001-834-278-8889x410,richardsonthomas@dunlap.com
+E0220,2024,Gabrielle Hutchinson,Operations,Manager,110535,Active,2021-07-29,,(545)667-7487,
+E0221,2024,Danielle Hood,Operations,Manager,68531,Resigned,2020-05-31,,642-728-5547x29078,tonyaanderson@rodriguez.org
+E0222,2024,Erin Cross,IT,Intern,57153,Active,2016-05-29,2024-03-01,,justin97@gmail.com
+E0223,2024,Laura Garcia,Marketing,Analyst,103637,Active,2016-02-04,,(548)176-1888x90570,sreid@hotmail.com
+E0224,2024,Emily Torres,Finance,Intern,33322,Active,2018-11-20,,001-486-475-5260x9690,pmartin@hotmail.com
+E0225,2024,Cynthia Bauer,Operations,Analyst,56448,Active,2016-12-21,,,sarahmoyer@yahoo.com
+E0226,2024,Laura Bowen,Sales,Senior Manager,132352,Active,2019-09-30,,961.731.6686x671,gwallace@gmail.com
+E0227,2024,Jennifer Tapia,IT,Lead,78929,Active,2015-02-15,,754-592-5397x32272,villanuevaamanda@gmail.com
+E0228,2024,Natasha Lopez,Marketing,Analyst,140106,Resigned,2021-10-05,,(832)591-6651,
+E0229,2024,Lisa Clark,Sales,Analyst,132473,Active,2023-08-16,,779.442.3970,
+E0230,2024,Lauren Vega,Sales,Developer,33795,Active,2017-11-11,,+1-100-757-0239,calebbrown@hill.com
+E0231,2024,Ronald Lloyd,IT,Intern,91932,Active,2021-01-19,,046.593.9584x7312,nataliepeterson@hotmail.com
+E0232,2024,Jeffery Jones,Operations,,48573,Active,2017-09-08,,(236)083-8592x53050,dchavez@wilson.com
+E0233,2024,Jamie Garcia,HR,Analyst,117453,Active,2018-09-26,,,sgraham@gmail.com
+E0234,2024,Erica Knight,Marketing,Developer,110392,Resigned,2016-11-15,,794.794.2029x4538,robinsonfrank@hotmail.com
+E0235,2024,Jason Bryant,Marketing,Lead,53867,Active,2016-12-13,,588.094.8352,jacquelinesmith@barr.com
+E0236,2024,Robert Hamilton,Marketing,Developer,138776,Active,2015-05-08,2024-05-07,494.883.9068,john23@harris.com
+E0237,2024,Andrew Adams,,Developer,114357,Active,2022-03-05,2024-06-22,341.662.1406x6043,
+E0238,2024,Terry Daniels,Finance,Senior Manager,90379,Active,2022-02-10,,439-289-7652x7168,
+E0239,2024,Jerry Mcguire,HR,Lead,79797,Resigned,2013-05-03,,466-112-1963x384,dennisponce@roberts-perry.com
+E0240,2024,Joseph Herrera,Finance,Lead,105323,Active,2018-05-29,,(687)929-4535x8943,davidshepherd@hotmail.com
+E0241,2024,Steven Newton,,Developer,114987,Active,2017-10-06,,,
+E0242,2024,Mercedes Chavez,Operations,Intern,32086,Active,2013-05-28,,001-351-085-3765x657,tdixon@yahoo.com
+E0243,2024,Robert Johnson,Sales,Senior Manager,87007,Resigned,2020-09-03,,(420)323-8765x36693,tonimalone@sherman.com
+E0244,2024,Melissa Morton,Marketing,Manager,46132,Active,2023-01-26,,383.439.1302x344,wendytaylor@copeland.com
+E0245,2024,Anthony Watson,Finance,Senior Manager,136378,Active,2014-10-12,,(245)302-7466x50870,melissasoto@hotmail.com
+E0246,2024,Alyssa Ward,Finance,Lead,152902,Active,2017-04-26,,,michelesmith@hotmail.com
+E0247,2024,Justin Collins,Marketing,Developer,54134,Active,2017-01-06,,,natasha85@hotmail.com
+E0248,2024,Rachel Gay,Operations,Intern,123282,Active,2022-08-16,,+1-724-653-5707x8451,
+E0249,2024,Dale Ortiz,HR,,66583,Resigned,2014-11-16,,001-859-051-3339x30726,edonaldson@gmail.com
+E0250,2024,Jennifer Branch,HR,Senior Manager,136623,Active,2017-10-11,2024-05-08,001-471-189-8289x406,carolyn26@hotmail.com
+E0251,2024,Christopher Sharp,Marketing,Senior Manager,27275,Active,2016-07-23,,163.261.3490x26049,johncrane@jones-bailey.net
+E0252,2024,Lisa Medina,Finance,Senior Manager,107834,Active,2020-06-12,,662-585-2864,michael37@gmail.com
+E0253,2024,Jessica Thompson,Sales,Senior Manager,83175,Active,2015-07-10,,001-932-371-0516x20911,ehodges@gmail.com
+E0254,2024,Jesus Guzman,Operations,Senior Manager,152846,Active,2019-10-30,,648-325-2389x549,brianfranco@gmail.com
+E0255,2024,Alyssa Ruiz,HR,Intern,44954,Resigned,2016-04-17,2024-03-21,,
+E0256,2024,Stanley Powell,HR,Analyst,64291,Resigned,2013-12-25,2024-09-27,0123901228,adambennett@underwood-garcia.com
+E0257,2024,Jason Hogan,Sales,Developer,63385,Active,2020-10-03,,(583)974-9443,debra50@gilmore.org
+E0258,2024,Michael Rojas,,Senior Manager,61843,Active,2017-09-25,,744-336-4701x84713,
+E0259,2024,Eugene Andrews,HR,Analyst,44479,Resigned,2022-03-24,,001-220-405-5376x4932,
+E0260,2024,Colin Roman,Operations,Developer,88103,Resigned,2014-12-22,,+1-644-745-9492x466,amy40@hotmail.com
+E0261,2024,Michael Roberts,Operations,Analyst,115437,Active,2017-08-07,,001-343-582-4354x558,margaretstephens@yahoo.com
+E0262,2024,Susan Haley,Marketing,Senior Manager,79073,Active,2019-06-14,,001-805-031-7118x7889,
+E0263,2024,Dr. Thomas Price,Operations,,100887,Active,2013-01-23,,+1-928-220-7095x5857,ejones@gmail.com
+E0264,2024,Neil Cook,Marketing,Manager,106251,Resigned,2023-01-30,,4200947287,pshaw@stephens.net
+E0265,2024,Jessica Roy,IT,Analyst,144241,Active,2018-03-28,,770.303.3031x78677,jessica38@riley.com
+E0266,2024,Roy Brown,Finance,Intern,146645,Active,2014-12-28,,(009)873-8169,morrisonpaul@faulkner.org
+E0267,2024,David Roberson,Marketing,Manager,127076,Active,2019-03-18,,,mramirez@hotmail.com
+E0268,2024,Allison Washington,Finance,Developer,142222,Resigned,2021-11-22,,757.489.4598x79272,ericksonjesus@palmer.info
+E0269,2024,Tyler Reynolds,Finance,Lead,50430,Active,2014-11-09,,,mhancock@gmail.com
+E0270,2024,Don Williams,HR,Intern,69137,Resigned,2018-06-17,,,theresa42@robertson.biz
+E0271,2024,John Walker,Finance,Intern,146246,Resigned,2022-04-26,,,brownkenneth@martinez-cox.com
+E0272,2024,Devon Aguilar,Operations,Intern,136981,Resigned,2016-03-17,,(516)862-8460x03629,
+E0273,2024,Kimberly Henderson,IT,Lead,60997,Active,2020-04-09,,001-402-659-5059,dana50@gmail.com
+E0274,2024,Jessica Foley,HR,Senior Manager,64802,Active,2019-02-09,,178-414-3386x9131,renee49@hotmail.com
+E0275,2024,Brooke Carpenter,Marketing,Developer,78579,Active,2018-01-27,,,hkelley@thompson.com
+E0276,2024,Bruce Hill,IT,Intern,115753,Active,2016-10-03,,+1-788-171-6010,
+E0277,2024,Sarah Rush,Marketing,Analyst,118704,Active,2018-07-08,,035.696.8623x629,
+E0278,2024,Zachary Arnold,Operations,Senior Manager,70146,Active,2016-07-20,,,nancy18@hotmail.com
+E0279,2024,Diana Brown,Finance,Senior Manager,128659,Resigned,2014-08-25,,+1-617-613-0222x858,mclark@holt.org
+E0280,2024,Allison Lewis,Sales,Analyst,136156,Active,2019-02-02,,+1-749-578-7415x330,daniel62@gmail.com
+E0281,2024,Nicole Meyers,Finance,Intern,141808,Active,2014-11-13,,+1-187-041-2586x4071,reynoldscaleb@santos.com
+E0282,2024,Andrew Johnson,IT,Manager,46470,Active,2022-10-06,,120-581-9158,gilbertmegan@yahoo.com
+E0283,2024,Bradley Brady,Operations,Developer,64340,Active,2021-06-23,2024-04-23,234.923.5061x48620,morrisjohn@hotmail.com
+E0284,2024,Patricia White,IT,Lead,46988,Active,2019-06-08,,733-671-6345,cward@yahoo.com
+E0285,2024,Angela Jones,Sales,Manager,74084,Active,2019-11-26,,001-545-939-0918x21105,shanegilbert@wells.com
+E0286,2024,Paul Hebert,Marketing,Senior Manager,129385,Active,2015-09-05,,001-595-604-0806x6080,harrisonjames@henderson.com
+E0287,2024,Paul Nelson,HR,Intern,82332,Active,2023-08-12,2024-12-06,+1-808-482-6066x1670,
+E0288,2024,Rachel Romero,Sales,Lead,100808,Resigned,2016-03-02,,426.475.2451x3992,ischneider@kline.com
+E0289,2024,Megan Frye,Operations,Senior Manager,140045,Active,2020-02-19,,875.617.0802,floreskimberly@french.net
+E0290,2024,Raymond Torres,HR,Developer,83806,Active,2016-01-18,,,ssmith@scott-perez.com
+E0291,2024,Kyle Butler,Finance,Developer,42216,Active,2017-02-22,,,dcole@gmail.com
+E0292,2024,Nicholas Lopez,,,89047,Resigned,2016-08-08,,(933)956-2101x43658,gary59@gmail.com
+E0293,2024,Miss Laura Nelson,IT,Senior Manager,132983,Resigned,2022-08-14,,,amyers@hotmail.com
+E0294,2024,Jennifer Doyle,Operations,Analyst,120225,Active,2016-12-23,,521-444-0675x6484,tricia22@hawkins.biz
+E0295,2024,Chloe Allen,IT,Analyst,136980,Active,2021-06-02,,,dawn84@potter.com
+E0296,2024,Hunter Hughes,Sales,Analyst,42976,Active,2018-06-15,,997-391-2824x89572,ryan27@baldwin.com
+E0297,2024,Carrie Williams,IT,Intern,90130,Active,2013-10-08,,805-765-0188,jamesolsen@gmail.com
+E0298,2024,Vincent Miller,Finance,Senior Manager,24878,Resigned,2018-08-03,,(474)828-8267x2375,jason67@torres.com
+E0299,2024,Robert Scott,Marketing,Analyst,126326,Active,2018-03-14,,,bartlettkenneth@gmail.com
+E0300,2024,Melissa Williams,Sales,Senior Manager,42036,Resigned,2019-07-24,2024-05-03,+1-162-457-1767x946,
+E0301,2024,Allen Young,IT,Analyst,39811,Active,2015-11-24,,(199)678-2537x88416,mhill@hotmail.com
+E0302,2024,Kyle Smith,Sales,Intern,76291,Active,2022-06-06,,+1-089-394-1925x198,fsmith@walls.info
+E0303,2024,Christopher Meyer,Operations,Senior Manager,143436,Active,2022-10-16,,+1-445-545-8718x186,thorntonchris@gmail.com
+E0304,2024,Joshua Torres,Finance,Senior Manager,41212,Active,2017-04-11,,,
+E0305,2024,Kevin Calhoun,Operations,Intern,118245,Active,2016-10-15,,(831)608-6172x168,evelyn79@zavala-williams.com
+E0306,2024,Jon Ryan,Sales,Manager,38935,Resigned,2015-03-26,,(346)754-8546,jasmine36@delacruz.com
+E0307,2024,Stephen Long,Operations,Lead,103533,Active,2016-12-24,,611.139.2108,joseph95@yahoo.com
+E0308,2024,Michael Smith,Sales,Lead,78274,Active,2014-07-16,,001-656-248-9163x491,aclarke@hotmail.com
+E0309,2024,Jordan Moore,Finance,Lead,128146,Active,2022-05-30,,001-991-543-3270x12108,dondillon@yahoo.com
+E0310,2024,Rebecca Holland,Sales,Developer,74018,Active,2021-12-20,,,christopherphillips@yahoo.com
+E0311,2024,Gregory Williams,HR,Developer,112287,Active,2022-08-02,,(627)312-5126,taylorkelly@mendoza.com
+E0312,2024,Melissa Smith,Finance,Manager,38708,Active,2020-10-11,,(458)554-4216x95097,
+E0313,2024,Jeremy Thornton,Marketing,Analyst,43407,Active,2022-04-19,,(490)220-5995,adam43@hotmail.com
+E0314,2024,Mary Thomas,IT,Developer,50308,Active,2023-01-05,,,tammy78@phillips.biz
+E0315,2024,Danielle Palmer,HR,Lead,77572,Resigned,2016-06-04,,475.958.1362,smithandrew@gmail.com
+E0316,2024,Chloe Miller,Finance,Lead,96872,Resigned,2020-05-05,,569.841.6042x8681,millercharles@hotmail.com
+E0317,2024,Kelly Schultz,Marketing,Developer,147398,Active,2020-12-14,,278-711-7319,mitchellkylie@hotmail.com
+E0318,2024,Julie Hernandez,IT,Senior Manager,43036,Resigned,2016-08-06,,,samanthahuang@ball-riley.com
+E0319,2024,Thomas Johnson,Operations,Intern,63687,Active,2021-07-05,,6743517358,kevin19@bell.com
+E0320,2024,Erin Watkins,Sales,Intern,70174,Resigned,2022-08-20,,594.545.1608x5817,mcdanielisabella@beck.biz
+E0321,2024,James Mitchell,HR,Analyst,93204,Active,2014-11-21,,(625)332-7043x56877,figueroalauren@dougherty.com
+E0322,2024,Zachary Perez,Operations,Intern,69922,Active,2015-01-05,,601.212.1802,bjohnson@chandler.com
+E0323,2024,Kevin Robinson,Sales,Developer,139434,Resigned,2016-07-24,,723.269.2117,jessicawhite@caldwell.com
+E0324,2024,Hannah Fowler,Marketing,Lead,39071,Active,2020-07-17,,881.931.8543x9851,sonyaadams@gmail.com
+E0325,2024,Allen Torres Jr.,Marketing,Developer,62402,Active,2023-07-20,,567-114-7626x842,fbrown@gmail.com
+E0326,2024,Kyle Wright,HR,Developer,64908,Resigned,2021-02-08,,(631)898-5744,xhenry@yahoo.com
+E0327,2024,Colleen Terry,Sales,Lead,62179,Active,2020-05-22,,269-358-3554x60299,elizabeth49@gonzalez-holmes.net
+E0328,2024,Holly Gordon,Operations,Senior Manager,42618,Active,2017-04-18,,432-186-4946,grivera@kelly.com
+E0329,2024,Kayla Singh,Operations,Developer,143959,Active,2014-11-18,,446.955.1851,andrew66@yahoo.com
+E0330,2024,Valerie Foster,HR,Intern,145424,Active,2017-10-01,2024-04-01,+1-362-551-5265x837,nina55@gmail.com
+E0331,2024,Melissa Merritt,Marketing,Analyst,77611,Active,2022-04-10,,6317827964,sharongilmore@atkins-harrison.com
+E0332,2024,Mark Garcia,Sales,Intern,31655,Active,2017-03-24,,(846)679-6501x29023,jenniferporter@gmail.com
+E0333,2024,Jennifer Obrien,HR,Developer,88249,Active,2021-06-29,2024-04-17,+1-668-881-4243x94529,mariah32@chavez.com
+E0334,2024,Jennifer Oliver,IT,Intern,91601,Resigned,2018-11-08,,568-434-5242x71156,gardnersusan@hotmail.com
+E0335,2024,Kenneth Bush MD,IT,Manager,78443,Active,2022-11-04,,684.468.6327x5408,casey63@yahoo.com
+E0336,2024,Yvonne Calderon,Sales,Manager,107819,Active,2013-04-23,,2314723519,williambird@yahoo.com
+E0337,2024,Deborah Pearson,IT,Developer,55136,Active,2016-08-30,,119-976-5619x0659,bridget98@hotmail.com
+E0338,2024,Brittany Woods,Marketing,Senior Manager,31551,Active,2017-10-27,,(577)266-0024,jamesriley@grant-wilson.com
+E0339,2024,Sandy Hughes,IT,Intern,109218,Resigned,2018-06-28,,,phillipsbeth@hotmail.com
+E0340,2024,Lori Ramos DVM,Sales,Analyst,138953,Active,2013-03-01,,3971494853,davidibarra@castro.com
+E0341,2024,Julie Nelson,Marketing,Senior Manager,96795,Active,2018-10-17,,+1-357-550-0403,
+E0342,2024,Aaron King,HR,Intern,50718,Active,2016-07-09,,001-322-722-2016,dcarroll@roberts.biz
+E0343,2024,Evan Marsh,Finance,Lead,116539,Resigned,2019-03-02,2024-08-28,674.371.2669,nromero@harrison-cooley.biz
+E0344,2024,William Daugherty,Marketing,Developer,113551,Active,2015-10-20,,357.705.7077,mcarlson@yahoo.com
+E0345,2024,Eric Murphy,IT,Intern,67808,Active,2022-05-17,,,olopez@yahoo.com
+E0346,2024,Anne Butler,IT,Developer,69438,Active,2022-08-22,2024-04-23,(412)624-2159,shawn02@gmail.com
+E0347,2024,Stephanie Lane,Marketing,Developer,85481,Active,2013-05-16,,518-120-4272,brettharding@yahoo.com
+E0348,2024,Scott Owens,Marketing,Senior Manager,54922,Active,2013-01-14,,(869)134-4357x737,meyerelizabeth@reyes-george.net
+E0349,2024,Brittney Boyd,,Manager,145013,Active,2014-12-13,2024-04-25,001-322-093-3523x1707,anitagonzales@gmail.com
+E0350,2024,Monique Mendez,Sales,Manager,139677,Active,2016-09-28,2024-03-05,4791820981,lauren94@yahoo.com
+E0351,2024,Kevin Fuller,IT,Manager,86692,Active,2015-09-30,,274-260-9888,
+E0352,2024,Kristen Figueroa,Sales,Developer,68443,Resigned,2013-04-27,,,craigshawna@garcia.com
+E0353,2024,Connie Wilcox,Marketing,Lead,150868,Active,2022-12-10,2024-04-30,+1-689-488-4690x9735,
+E0354,2024,Sherry Young,Marketing,Lead,92049,Active,2021-02-03,2024-08-15,,kmaynard@davis-decker.net
+E0355,2024,Connie Orozco,Marketing,Developer,123857,Active,2022-12-07,,2686338663,kinglaura@yahoo.com
+E0356,2024,Derrick Jones,IT,Lead,40853,Active,2017-03-28,2024-12-08,+1-191-787-1798,jacksondavid@gmail.com
+E0357,2024,Monica Russo,Finance,Developer,56050,Active,2017-01-05,,597-116-8164x3367,eric61@hotmail.com
+E0358,2024,Ronald Ryan,IT,Developer,92774,Active,2018-03-20,,273-343-1129,hernandezmichael@smith.com
+E0359,2024,Linda Hodges,Operations,Lead,107843,Active,2019-01-27,,847.272.1829x5161,belljames@crawford-reeves.biz
+E0360,2024,Daniel Reed,Marketing,Senior Manager,48465,Active,2018-09-15,,233-951-5221,christina14@pierce-roman.com
+E0361,2024,Heather Campbell,HR,Developer,115864,Active,2019-06-29,,192-340-6829,hodgesmichael@richard-carlson.com
+E0362,2024,William Parker,IT,Lead,76964,Active,2018-04-26,,527-544-5636,amystone@gmail.com
+E0363,2024,Debra Brooks,IT,Manager,152214,Active,2015-02-25,,+1-246-602-2727x8382,walkercharles@hotmail.com
+E0364,2024,Robert Gomez,Marketing,Manager,143434,Active,2018-06-11,,(141)602-8783,ann02@hotmail.com
+E0365,2024,Lori Nguyen,Finance,Intern,100654,Active,2019-04-28,,001-627-351-3135x55940,pmcguire@yahoo.com
+E0366,2024,Nicole Scott,Operations,Analyst,120973,Active,2021-07-14,,873.764.0840x451,cheyenne82@cook.info
+E0367,2024,Andrew Anderson,Marketing,Manager,148627,Resigned,2017-03-17,,3961883855,jamesterrell@yahoo.com
+E0368,2024,Tyler Schneider,Finance,Intern,38464,Active,2022-08-26,,+1-634-271-8493x720,stevenwerner@monroe.com
+E0369,2024,Rebecca Roberts,IT,Manager,65880,Resigned,2018-11-27,,,matthewsdaniel@gmail.com
+E0370,2024,Bruce Holder,Marketing,Developer,27439,Active,2016-07-15,,(185)352-6240x06580,jessica15@gmail.com
+E0371,2024,Shane Jacobs,Operations,Senior Manager,33391,Active,2022-08-08,,,johnsonedwin@johnson.com
+E0372,2024,Carlos James,Marketing,Manager,68818,Resigned,2019-08-05,,(102)450-5561,
+E0373,2024,Rachel Sullivan MD,IT,Senior Manager,98147,Active,2014-03-27,2024-11-25,,cpotter@gmail.com
+E0374,2024,Theodore Wilson,Sales,Developer,40183,Active,2023-11-17,,293.800.5345x6427,evansjohn@hotmail.com
+E0375,2024,Kevin Wood,IT,Developer,96432,Resigned,2022-04-28,,,henryhernandez@yahoo.com
+E0376,2024,Lisa Nichols,HR,Senior Manager,86432,Active,2021-06-16,,091-841-6608x455,hpotter@yahoo.com
+E0377,2024,Andrew Wade,Operations,Developer,53912,Active,2022-03-16,2024-12-01,234-327-9570,hickmanrobyn@yahoo.com
+E0378,2024,Gregory Stanley,Marketing,Developer,122221,Active,2021-12-03,2024-05-03,001-858-784-1592,sarahkennedy@gmail.com
+E0379,2024,Dr. Joseph Montgomery,Finance,Analyst,58757,Active,2015-12-23,,475-388-6150x1778,maxwellmeghan@yahoo.com
+E0380,2024,Samantha Garcia,Operations,Developer,31637,Active,2021-10-12,,525.437.8388x561,alexanderjohnson@smith-phillips.biz
+E0381,2024,Erin Pittman,HR,Intern,58440,Resigned,2015-04-09,,001-074-944-8554x60209,brittanydixon@yahoo.com
+E0382,2024,Miranda Malone,Operations,Intern,98277,Active,2020-03-06,,,williamjohnson@yahoo.com
+E0383,2024,Dr. Emma Dean,Sales,Intern,77657,Resigned,2017-01-16,,310.337.6443x55075,jameslarsen@hernandez.com
+E0384,2024,Anthony Williams,Finance,Lead,29612,Active,2019-07-22,,001-091-349-2301x8773,barnesmegan@green.com
+E0385,2024,Jeffrey Jackson,Marketing,Analyst,57747,Active,2016-07-05,,,laurasoto@hotmail.com
+E0386,2024,William Alvarez,Marketing,Lead,65223,Active,2015-02-05,,0208264870,
+E0387,2024,Michelle Hancock,Finance,Lead,141512,Active,2014-11-19,2024-10-16,239.658.1985,steven25@hotmail.com
+E0388,2024,Andrew Miller,Finance,Intern,54122,Active,2014-05-29,,(853)229-8086x1448,simondonald@mcintosh.org
+E0389,2024,Cynthia Johnson,IT,Analyst,125964,Active,2020-03-17,2024-12-28,001-903-145-6903x2119,
+E0390,2024,Jesse Martin Jr.,IT,Analyst,79221,Active,2022-10-26,,,tlee@gmail.com
+E0391,2024,Russell Walls,Sales,Analyst,54997,Active,2018-11-14,,,lindajackson@yahoo.com
+E0392,2024,John Alexander,HR,Manager,149712,Active,2019-02-05,,458-680-8599x60610,jramsey@ballard.com
+E0393,2024,Hector Freeman,Finance,Intern,66504,Resigned,2015-04-03,2024-09-22,+1-658-827-6343,destinydecker@perez.com
+E0394,2024,Thomas Harrington,IT,Developer,70001,Resigned,2018-04-21,,+1-053-296-6350,andersonlee@yahoo.com
+E0395,2024,Christine Hudson,HR,Developer,47641,Resigned,2022-04-19,,1262449986,twilson@roach-love.com
+E0396,2024,Harold Hunter,IT,Intern,60649,Resigned,2022-12-24,,(845)371-3981,shannonstephens@alexander.biz
+E0397,2024,Richard Woods,IT,Senior Manager,136163,Active,2019-01-03,,,pnash@chan.com
+E0398,2024,Rebecca Harmon,Marketing,Intern,102219,Active,2013-12-19,,873-028-1350x30857,nwest@curry.com
+E0399,2024,Michael Morgan,HR,Developer,94996,Active,2016-10-21,,095.896.1894,cameronhorton@yahoo.com
+E0400,2024,Alejandro Beltran,Sales,Developer,52144,Active,2014-01-15,,+1-748-140-3043x95018,melissa65@mccarty-chan.org
+E0401,2024,Traci Crawford,Marketing,Developer,45175,Active,2013-10-09,,7120631313,
+E0402,2024,David Chase,Sales,Manager,54179,Active,2013-06-09,2024-04-03,001-055-127-1513x4978,lauren26@harris-boyd.com
+E0403,2024,Jennifer Zhang,IT,Developer,144107,Active,2013-10-31,,890.013.5760,youngmegan@taylor.org
+E0404,2024,Michael Hampton,Finance,Intern,148128,Active,2014-10-18,2024-06-30,+1-785-648-2958x00978,ricardojohnson@yahoo.com
+E0405,2024,Larry Jones,IT,Developer,32929,Active,2020-01-11,,001-905-880-4332x95894,hughescarmen@gmail.com
+E0406,2024,Gina Mckee,Finance,Manager,133329,Resigned,2021-07-12,,001-380-788-3313,megan10@gmail.com
+E0407,2024,Anthony Smith,Finance,Lead,25465,Resigned,2021-10-20,,143-118-8162x53509,hayescaitlin@brandt-diaz.com
+E0408,2024,Samantha Murray,HR,Manager,157720,Resigned,2014-03-12,,,steven35@buck-martinez.com
+E0409,2024,Dana Day,Sales,Developer,43142,Active,2019-10-04,,579-964-9414x35989,xkelly@yahoo.com
+E0410,2024,Eric Fowler,Finance,Manager,138933,Active,2021-02-22,,+1-142-501-6978x56660,christophermartinez@adams.info
+E0411,2024,Madeline Brown,Operations,Developer,30477,Active,2013-05-25,,(794)732-8276x6929,
+E0412,2024,Sherri Rivera,HR,Analyst,62610,Resigned,2017-12-24,,,torresmicheal@lopez.com
+E0413,2024,Claire Henderson,Marketing,Intern,70941,Resigned,2014-09-19,,942-376-5778x351,
+E0414,2024,Shannon West,,Developer,120236,Active,2015-01-25,2024-09-08,,
+E0415,2024,Ashley Sellers,Operations,Senior Manager,94388,Active,2016-04-15,,283.343.1387x4822,
+E0416,2024,Lisa Ayala,Finance,Manager,38355,Active,2020-03-12,2024-04-09,(139)347-3129x8251,egreer@hendrix.com
+E0417,2024,Meghan Clark,HR,Senior Manager,52323,Active,2013-12-29,,206.586.4501,mallory32@gmail.com
+E0418,2024,Michael Rivas,IT,Manager,138615,Resigned,2013-08-27,,001-556-872-3316x0482,
+E0419,2024,Jennifer Robinson,HR,Senior Manager,141439,Active,2022-07-28,,(263)432-5189,aford@scott-davidson.info
+E0420,2024,Gabrielle Hendrix,Sales,Manager,60470,Active,2019-07-22,,+1-653-653-4758x623,ellen09@hotmail.com
+E0421,2024,Frederick Mendoza,IT,Lead,136992,Active,2014-03-01,,,gregorybeasley@gmail.com
+E0422,2024,Aaron Riggs,Operations,Manager,138857,Active,2022-05-21,2024-08-25,911.426.5110,claudia86@strickland-russell.com
+E0423,2024,Kristi Perez,Operations,Lead,132269,Active,2021-04-20,,636-422-6061x89103,jjones@anderson.org
+E0424,2024,Curtis Martin,Sales,Intern,111772,Active,2015-01-06,,(042)944-7617x79140,ybrowning@gmail.com
+E0425,2024,Joy Bowen,Marketing,Manager,33743,Active,2020-05-30,2024-07-20,,
+E0426,2024,Dr. Gina Burns MD,Finance,Manager,71881,Active,2020-09-06,,,troywilson@bell.org
+E0427,2024,James Taylor,Operations,Intern,124361,Active,2020-06-25,,+1-359-353-0745x246,robert82@hotmail.com
+E0428,2024,Keith Mason,Sales,Intern,34074,Resigned,2020-07-22,,001-047-241-0086x56811,todd65@sparks.com
+E0429,2024,John Hopkins,Finance,Intern,33917,Active,2015-03-15,,226-672-9530,tylerjohnson@taylor.com
+E0430,2024,Bonnie Ruiz,IT,Senior Manager,96770,Active,2022-04-16,,001-095-769-4855x423,asanchez@yahoo.com
+E0431,2024,Dustin Garcia,Marketing,Intern,105189,Resigned,2022-06-17,,,david29@gmail.com
+E0432,2024,Patricia Frazier,IT,Intern,120284,Active,2013-08-17,,484-453-7743,jonesterry@villarreal-vasquez.com
+E0433,2024,James Morrow,Finance,Senior Manager,134156,Active,2017-04-22,,767-536-0790,jensenkarla@miranda.com
+E0434,2024,Audrey Mcintosh,Operations,Developer,25920,Active,2016-09-27,,432.966.9392,george60@stafford.net
+E0435,2024,Ashley Ortiz,Finance,Intern,81980,Active,2020-04-21,,653.330.1489x6498,alexander87@hotmail.com
+E0436,2024,Savannah Espinoza,Finance,Intern,86241,Active,2014-04-19,2024-11-19,,jeffrey67@gates.com
+E0437,2024,Toni Green,Sales,Manager,61352,Resigned,2013-11-22,,623.040.7456x24776,hannahgibson@hotmail.com
+E0438,2024,William Mueller,Operations,Analyst,92748,Active,2023-02-28,,488.089.4228,paulwilliams@payne-foster.com
+E0439,2024,Lauren Richards,Sales,Analyst,63750,Resigned,2022-01-06,,698-041-5662,george27@yahoo.com
+E0440,2024,Melissa Chung,Sales,Senior Manager,70055,Active,2022-06-05,,370-338-9188x51631,millswilliam@hotmail.com
+E0441,2024,Michael Joseph,HR,Intern,138822,Active,2018-11-07,,139-578-9311,patrickmartin@yahoo.com
+E0442,2024,Sheila Sparks,IT,Developer,130756,Active,2023-02-16,2024-09-23,001-984-147-9940x327,nicolewillis@hotmail.com
+E0443,2024,Michelle Meyer,IT,Intern,92299,Active,2013-01-27,2024-07-25,(633)182-7411,bobbybush@hotmail.com
+E0444,2024,Nancy Smith,Marketing,Developer,43644,Resigned,2019-01-04,,091.159.7504,reyesandrew@yahoo.com
+E0445,2024,Anne Vaughn,HR,Intern,127731,Active,2023-10-15,2024-11-21,441-340-4684x6110,snelson@hotmail.com
+E0446,2024,Ashley Haynes,Marketing,Senior Manager,90510,Active,2023-01-17,,,hallvictoria@haney.com
+E0447,2024,Aaron Wheeler,Operations,Lead,36579,Active,2019-03-01,,,
+E0448,2024,Michael Baker,Sales,Manager,147680,Active,2022-11-17,2024-07-26,(678)577-4724x2531,
+E0449,2024,Jeremiah Lambert,Marketing,Manager,111674,Active,2018-08-22,2024-04-11,,awilliams@sawyer-bennett.net
+E0450,2024,Dr. Ryan Martin,HR,Intern,114816,Active,2013-09-27,,(179)801-6735x286,roachluis@gmail.com
+E0451,2024,Sheri Hughes,HR,Lead,38746,Active,2019-02-14,,,
+E0452,2024,Jason Ramirez,Operations,Intern,24731,Active,2015-05-12,,001-750-783-6914,akoch@hotmail.com
+E0453,2024,Peter Clayton,Operations,Developer,141570,Active,2019-03-11,,828.137.5318x318,hgarcia@dalton.info
+E0454,2024,Rachel Torres,Finance,Developer,114961,Active,2015-08-16,,,
+E0455,2024,Carl Morgan,HR,Intern,143865,Resigned,2021-12-18,,(140)945-3021x40188,
+E0456,2024,Melanie Douglas,Marketing,Analyst,32255,Active,2016-11-15,2024-12-23,(948)517-3391,vblack@hotmail.com
+E0457,2024,Miss Vanessa Hernandez,Finance,Intern,56211,Resigned,2020-12-25,,,lgarrett@owens.com
+E0458,2024,James Hamilton,IT,Analyst,42269,Active,2014-05-11,,,mstone@moore-hancock.com
+E0459,2024,Paula Hernandez,Sales,Intern,71321,Active,2015-10-19,,(620)800-7085x75101,kingtyler@hotmail.com
+E0460,2024,Barbara Price,Finance,Senior Manager,67976,Resigned,2021-08-07,,,reevesmatthew@yahoo.com
+E0461,2024,David Wade,IT,Analyst,41233,Active,2019-02-09,,9797204335,robertrobinson@yahoo.com
+E0462,2024,Derek Green,HR,Lead,50441,Active,2019-10-24,,084.918.1096,brad79@hotmail.com
+E0463,2024,Dr. Darius Rollins Jr.,Operations,Lead,82500,Active,2016-09-26,,(210)523-1865x4360,cynthia11@wood.biz
+E0464,2024,Steve Howard DDS,IT,Lead,127749,Active,2017-04-12,,804.097.0824x09087,cathyjohnson@hotmail.com
+E0465,2024,Christina Williams,IT,Lead,116921,Active,2017-10-23,,,katherinelane@ellis.com
+E0466,2024,Angela Walker,Operations,Manager,28174,Resigned,2022-10-26,,(479)295-5571x9902,amandalane@gmail.com
+E0467,2024,Christopher Hill,Sales,Lead,66480,Active,2018-04-01,,(538)418-5616x416,xbarnes@hendricks.info
+E0468,2024,James Ballard,Operations,,50000,Active,2016-05-18,,,michaelwallace@gmail.com
+E0469,2024,Jesse Meyer,Marketing,Lead,116818,Resigned,2014-10-29,,(092)625-6344x64690,ndunlap@doyle.biz
+E0470,2024,Derrick Lewis,,Developer,36727,Active,2021-11-01,,001-314-116-6956x469,egordon@ray-simpson.com
+E0471,2024,Keith Johnson,Sales,Senior Manager,136663,Active,2015-05-22,2024-08-13,+1-993-961-6483x892,gutierrezmark@gmail.com
+E0472,2024,Jonathan Howell,Operations,Manager,60922,Active,2022-01-20,2024-05-06,,samantha42@hotmail.com
+E0473,2024,Sharon Bailey,Operations,Lead,74617,Resigned,2020-03-19,,(244)216-3066x498,clarkebrian@gmail.com
+E0474,2024,Amanda Solomon,,Senior Manager,57611,Active,2019-06-11,,+1-364-918-2987x18444,andres54@patterson-castillo.biz
+E0475,2024,Carrie Mcconnell,IT,Intern,47910,Active,2015-12-19,,648.300.5962x3133,alan17@banks.net
+E0476,2024,Erica Moore,Marketing,Intern,110548,Active,2014-08-27,,(699)837-6724,danielmartin@owens.com
+E0477,2024,David Guzman,Sales,Intern,49486,Active,2019-09-02,,575-544-8032x17673,
+E0478,2024,Alicia Boyd,Marketing,Lead,51840,Active,2017-03-12,,,chandleremily@stephens.com
+E0479,2024,Amy Lopez,HR,Developer,32031,Resigned,2023-11-10,,500-363-1722,sbrown@thomas.biz
+E0480,2024,Shannon Leonard,IT,Analyst,42833,Resigned,2019-08-02,,754-593-7305,
+E0481,2024,Rhonda Romero,Sales,Analyst,74527,Active,2013-12-02,,399-880-4971x8716,smithcynthia@gmail.com
+E0482,2024,Kenneth Hernandez,HR,Lead,149362,Active,2016-01-22,,7038526836,morenosean@hotmail.com
+E0483,2024,Amy Douglas,Finance,Developer,94543,Active,2020-02-14,,468.989.6545x4623,christophermccullough@gmail.com
+E0484,2024,Dawn Anderson,Marketing,Developer,59484,Resigned,2022-05-25,,001-319-106-2415,lesliedavis@yahoo.com
+E0485,2024,James Lucas,IT,Intern,27996,Resigned,2016-06-14,2024-10-08,242.876.8942,joseph44@gmail.com
+E0486,2024,Alexander Webb,IT,Analyst,109850,Resigned,2022-06-17,,502-648-0628x699,sheila61@brennan-nelson.org
+E0487,2024,Jeremy Salazar,Operations,Developer,37957,Active,2019-06-02,,001-792-996-1369x1210,fburns@davis-black.com
+E0488,2024,Matthew Carroll,IT,Manager,103852,Resigned,2023-05-03,,,kelly16@hotmail.com
+E0489,2024,Jennifer Lawrence,Operations,Developer,48149,Active,2017-12-06,,(920)332-9638x405,
+E0490,2024,Haley Morris DDS,Sales,Intern,128903,Active,2019-07-11,2024-06-19,001-626-536-1415x781,
+E0491,2024,Cheyenne Martin,HR,Developer,58986,Active,2020-03-04,2024-05-16,,whitedanielle@pearson.net
+E0492,2024,Michele Jones,Marketing,Manager,115577,Resigned,2014-04-08,,(934)363-3410,christopher64@espinoza.biz
+E0493,2024,Shelby Johnson,IT,Lead,106218,Active,2013-11-27,,001-565-892-8120x7309,natalieyoung@gmail.com
+E0494,2024,Krista Wilcox,Operations,Analyst,104254,Active,2014-11-21,,001-946-197-2467,jtorres@brown.org
+E0495,2024,Morgan Brown,IT,Senior Manager,114302,Active,2021-07-31,,001-012-990-0951x247,
+E0496,2024,Jackie Robinson,IT,Lead,95027,Active,2017-12-29,,+1-798-675-0508x773,
+E0497,2024,Colleen Carson,Sales,Senior Manager,47951,Active,2020-01-15,,(467)546-0261,tiffanycabrera@yahoo.com
+E0498,2024,Paul Robinson,Sales,Developer,49024,Active,2022-09-28,,001-912-806-1285x3558,michaelhill@hotmail.com
+E0499,2024,Mark Allen,IT,Developer,118365,Active,2017-12-30,,812-439-2078x060,lauraholmes@jones.com
+E0500,2024,Theresa Sims,Operations,Analyst,38754,Active,2019-01-26,,001-561-283-0541x32586,tina72@sanchez.com
+E0501,2024,Linda Kelley,Sales,Manager,33573,Active,2020-05-05,,298-973-0839,pballard@yahoo.com
+E0502,2024,Crystal Sanford,IT,Developer,82709,Active,2015-03-02,,+1-147-691-0747,eenglish@glenn-morrison.info
+E0503,2024,Casey Brown,Finance,Intern,71995,Active,2020-12-26,,(344)170-5091x6453,porterheather@gmail.com
+E0504,2024,Michael Johnson,IT,Developer,117040,Active,2020-07-28,,+1-824-278-1067x5802,kristine60@harris.com
+E0505,2024,Daniel Castillo,Finance,Analyst,48533,Resigned,2020-03-24,,+1-513-113-3902x072,
+E0506,2024,Lori Taylor,Finance,Lead,83368,Active,2016-10-05,,,jared36@hotmail.com
+E0507,2024,Sherry Garcia,Sales,Lead,104658,Resigned,2019-01-12,,044.004.7207,bjoseph@yahoo.com
+E0508,2024,Shaun Orozco DVM,IT,Manager,51574,Active,2014-01-16,2024-11-26,,mary98@gmail.com
+E0509,2024,Mark Martinez,Marketing,Lead,78974,Active,2016-09-08,,791-820-1151x9721,sbruce@hotmail.com
+E0510,2024,Darren Brooks,HR,Lead,54483,Resigned,2016-03-05,,,gina72@bell-duarte.com
+E0511,2024,Samantha Wright,Finance,Analyst,74443,Active,2021-08-20,,431-877-1823x85837,carolynalvarado@bell.com
+E0512,2024,Kurt Thompson,Operations,Intern,132832,Active,2022-12-18,,001-634-435-7891x96740,
+E0513,2024,Jennifer House,HR,Manager,36322,Active,2016-03-12,,9073883881,andersonlisa@lamb.com
+E0514,2024,Brandon Brown,Marketing,Intern,139447,Active,2017-12-16,,428.775.7004x18346,lkane@hotmail.com
+E0515,2024,Kevin Diaz,HR,Senior Manager,41628,Resigned,2021-04-25,2024-11-09,721-167-5610x9942,jesse98@gmail.com
+E0516,2024,Mariah Snow,IT,Senior Manager,137996,Resigned,2023-09-28,,,
+E0517,2024,John Rogers,Finance,Lead,45262,Active,2018-07-29,,568.996.5909x492,hcook@dean-mclean.com
+E0518,2024,Kevin Molina,Marketing,Lead,53428,Active,2013-04-14,,001-998-481-4157x60147,justinpalmer@gmail.com
+E0519,2024,Dana Wilcox,Finance,Developer,75282,Active,2023-10-13,2024-10-16,849-997-8401,daviddalton@mason-smith.com
+E0520,2024,Madeline White,,Analyst,57706,Active,2021-03-20,,,ellisbrittany@bond.com
+E0521,2024,Ronald Ferguson,IT,Senior Manager,91350,Active,2021-10-30,2024-09-04,308-797-0183,lisa18@yahoo.com
+E0522,2024,Jennifer West,Sales,Developer,120441,Active,2016-07-11,,435-177-6484x5395,hendersonleroy@hicks-cervantes.info
+E0523,2024,Donna Cervantes,HR,Senior Manager,68374,Active,2017-01-31,2024-12-07,,randalljohnston@davis-jackson.com
+E0524,2024,James Norman,IT,Analyst,121043,Active,2018-12-20,2024-06-16,467.761.1875x6391,alexandersherry@fields.org
+E0525,2024,Kathy Bell,Operations,Analyst,40891,Active,2021-07-04,,,rogersdavid@hotmail.com
+E0526,2024,Rachel Myers,Finance,Manager,151355,Active,2017-07-09,,,hollymcpherson@hotmail.com
+E0527,2024,Cody Galloway,HR,Manager,35672,Active,2023-05-12,,001-393-690-5951x60593,nrasmussen@yahoo.com
+E0528,2024,David Jenkins,Marketing,Senior Manager,53296,Active,2020-11-06,,,yhogan@hotmail.com
+E0529,2024,Bonnie Frye,HR,Intern,91811,Resigned,2019-11-03,,+1-676-165-1106x6388,bmyers@yahoo.com
+E0530,2024,Logan Craig,IT,Senior Manager,124282,Active,2019-09-29,,062-817-2726x47349,desireeschaefer@gmail.com
+E0531,2024,Stacy Miranda,Sales,Analyst,128990,Active,2015-09-08,,(416)479-8613x0141,christinahuang@smith-saunders.biz
+E0532,2024,Michael Harris,Marketing,Intern,76069,Active,2022-02-08,,001-504-070-3234x29805,margaretbarber@johnson.com
+E0533,2024,Jonathan Smith,HR,Developer,64105,Active,2022-04-01,,463-331-9858x651,sarahingram@santiago-hale.net
+E0534,2024,Sylvia Jacobs,HR,Manager,36998,Active,2021-06-08,,(257)226-9010,whitebrittany@yahoo.com
+E0535,2024,Sharon Fitzgerald,HR,Intern,130729,Active,2021-08-02,,001-554-433-9550,wroberts@martinez-sampson.com
+E0536,2024,Mark Carter,IT,Intern,122393,Active,2014-02-23,,(434)221-4916,karen32@gmail.com
+E0537,2024,David Porter,HR,Intern,120348,Active,2023-05-03,2024-10-01,+1-639-520-5983,ballgeoffrey@yahoo.com
+E0538,2024,Daniel Browning,Operations,Analyst,36693,Resigned,2013-09-12,,(602)526-5917,smartin@potter-ramos.com
+E0539,2024,Grant Crane,Sales,Manager,48011,Active,2015-01-27,,+1-214-047-1899x1881,cbeasley@ramsey-kirk.com
+E0540,2024,Christopher Mckee,HR,Analyst,79398,Resigned,2013-06-01,,001-985-403-7156x253,sarah85@phillips.info
+E0541,2024,Brenda Romero,IT,Developer,115170,Resigned,2014-04-14,,+1-593-501-6383x762,ellisstephanie@hotmail.com
+E0542,2024,Joseph Cohen,HR,Intern,129496,Active,2014-12-07,,725-806-0201x48587,
+E0543,2024,Jenny Jackson,Operations,Lead,145249,Active,2018-10-06,,470-012-7410,sara05@yahoo.com
+E0544,2024,Robert Aguilar,Operations,Intern,101275,Active,2019-04-13,,(889)125-5756,fjohnson@raymond-barrett.biz
+E0545,2024,Eric Mason,Finance,Manager,90361,Active,2014-07-11,2024-05-21,001-403-970-8594x6707,
+E0546,2024,Sharon Barton,Operations,Intern,135304,Active,2023-07-01,,,pcohen@guzman-torres.info
+E0547,2024,Joshua Smith,Finance,Intern,78481,Active,2021-03-27,,(592)165-3960x0825,keith08@hotmail.com
+E0548,2024,Christopher Schultz,Finance,Manager,92607,Resigned,2018-06-03,,,blancharddawn@sellers.com
+E0549,2024,Felicia Cameron,,Lead,106981,Active,2020-12-05,2024-05-13,+1-245-042-1132x593,tammy86@hotmail.com
+E0550,2024,Steven Myers,Finance,Manager,45404,Active,2020-01-30,2024-05-19,(076)533-6019x75946,aallen@payne.com
+E0551,2024,Cynthia Riley,Marketing,Lead,86898,Active,2022-11-23,2024-09-22,722-648-5802,sherryfisher@ramirez.com
+E0552,2024,John Webb,Marketing,Developer,122760,Active,2023-10-13,,3850303972,mitchellsanchez@hotmail.com
+E0553,2024,Rhonda Johnson,Marketing,Senior Manager,80267,Resigned,2015-02-06,,305.210.8051x21974,barbarataylor@jackson-russo.com
+E0554,2024,Sara Edwards,Marketing,Intern,42986,Active,2015-03-10,,,peggy38@mccarty.com
+E0555,2024,Johnny Page,Operations,Manager,60407,Active,2020-05-02,,(332)287-2704x50185,leetimothy@gmail.com
+E0556,2024,Steven Young,Operations,Developer,104418,Resigned,2018-02-01,,,patrickjones@gmail.com
+E0557,2024,Dennis Williams,Marketing,Intern,103701,Active,2016-05-13,,966-017-2777x40041,andrew61@gmail.com
+E0558,2024,Sandra Schmitt,Finance,Intern,93754,Active,2017-04-23,,(850)194-3557,kimberlycarter@myers.org
+E0559,2024,Susan Brown,Marketing,Senior Manager,140538,Active,2021-02-10,,001-736-066-3812,catherine85@hotmail.com
+E0560,2024,Victor Phillips,IT,Developer,119148,Active,2023-04-08,,551-774-3568,johnsonmichael@little.com
+E0561,2024,Courtney Hayes,HR,Manager,102041,Resigned,2014-02-28,,001-795-737-7307x088,whitejames@yahoo.com
+E0562,2024,Melissa Richardson,IT,Lead,46512,Resigned,2018-01-23,,487-062-0567,gregory50@gmail.com
+E0563,2024,Paul Miller,Sales,Analyst,92616,Active,2017-02-14,2024-03-02,,harrisvanessa@walker.com
+E0564,2024,Elizabeth Parker,IT,Analyst,128226,Active,2015-02-13,2024-05-21,(130)592-3685x23563,
+E0565,2024,Justin Silva,HR,Manager,143587,Active,2020-06-30,2024-11-04,(892)855-9377,juliemcdonald@flores.com
+E0566,2024,Destiny Bullock,Operations,Lead,60203,Resigned,2020-05-28,,,jonathanhenson@yahoo.com
+E0567,2024,Robert Brewer,Operations,Lead,112436,Active,2017-06-25,,,erica88@burke.com
+E0568,2024,Jeremiah Gonzales,Sales,Lead,24764,Resigned,2023-10-30,,001-289-538-4832x953,hsantiago@hotmail.com
+E0569,2024,David Thomas,,Developer,94822,Active,2021-01-05,,+1-971-452-3312x844,jnelson@parker.com
+E0570,2024,Lydia Fisher,Operations,Intern,139758,Active,2014-08-23,,001-460-923-2505,christopher16@henderson.com
+E0571,2024,Randy Benson,Finance,Developer,32788,Resigned,2016-06-20,,+1-183-383-8205x72491,jbennett@martinez.com
+E0572,2024,Kayla Hill,IT,Senior Manager,41656,Active,2016-11-12,,+1-041-868-9939,fcoffey@alvarez-wolfe.biz
+E0573,2024,John Osborne,Marketing,Analyst,156432,Active,2022-08-11,,,annhendricks@patrick-williams.com
+E0574,2024,Steven Cruz,IT,Lead,59622,Active,2015-03-25,,7028837724,tiffanyfox@thomas.com
+E0575,2024,Michael James,Operations,Lead,120834,Active,2020-01-17,,,quinnjerry@yahoo.com
+E0576,2024,Phillip Moore,Operations,Manager,50576,Active,2016-04-30,,(138)800-0644,kennethrobbins@lewis-bryant.com
+E0577,2024,Clayton Yates,IT,Senior Manager,128323,Resigned,2014-06-27,,001-449-445-3268x412,
+E0578,2024,Ricky Matthews,Finance,Lead,68029,Resigned,2013-07-28,,,zkennedy@morgan.com
+E0579,2024,Michelle Bradshaw,IT,Analyst,97928,Resigned,2019-06-07,2024-05-21,(247)824-6260x592,mcleanjulie@grant.com
+E0580,2024,Christina Hernandez,IT,Analyst,69588,Active,2014-08-15,,001-655-684-3282,lisakeller@hotmail.com
+E0581,2024,Lisa Lewis,Marketing,Developer,99628,Active,2017-07-07,,+1-409-138-2279x115,jason14@perez.com
+E0582,2024,Taylor Sweeney,Finance,Analyst,26359,Active,2017-07-20,2024-09-12,103.318.0065x88846,
+E0583,2024,Amanda Miller,IT,Manager,86883,Active,2016-11-06,,(964)716-7585x77773,
+E0584,2024,Elizabeth Johnson,Sales,Senior Manager,155978,Active,2022-10-14,,,jackhall@yahoo.com
+E0585,2024,Zachary Olson,Sales,Lead,113012,Active,2013-02-23,2024-11-21,313-007-5101,kjones@nelson.com
+E0586,2024,David Snow,Finance,Manager,77921,Active,2016-06-14,,187.743.0637x823,halldavid@page-quinn.info
+E0587,2024,Karen Conway,Finance,Manager,53087,Resigned,2014-05-27,2024-06-06,557.486.6651x399,mathewstanya@yahoo.com
+E0588,2024,David Bird,Finance,Developer,108730,Active,2017-04-28,,828.923.4024,yyoung@melton-davis.net
+E0589,2024,Jenny Rodriguez,Finance,Lead,107588,Active,2017-10-03,,,michaelspence@gmail.com
+E0590,2024,Christine Olson,Marketing,Developer,86301,Resigned,2013-02-13,,+1-313-981-7721x2067,david55@ritter.org
+E0591,2024,Tracy Hamilton,Marketing,Developer,45129,Resigned,2018-05-30,2024-10-26,,ibailey@garcia.com
+E0592,2024,Taylor Bowen,IT,Analyst,67292,Active,2020-08-30,,(671)358-4760,harveydonald@hotmail.com
+E0593,2024,Evelyn Robertson,,Senior Manager,82564,Active,2019-12-02,,951-919-7193x5632,rebecca98@hotmail.com
+E0594,2024,Elizabeth Short,IT,Lead,93937,Active,2021-03-04,,852-070-6542x98042,lisamahoney@ford.org
+E0595,2024,Amber Smith,Marketing,Senior Manager,57624,Resigned,2016-04-25,,(099)023-3298x800,emily47@yahoo.com
+E0596,2024,Elizabeth Weber,Marketing,Developer,155604,Active,2017-08-04,,217-219-9364x6503,sanchezjoseph@keller-larson.com
+E0597,2024,Thomas Green,IT,Lead,55413,Resigned,2019-07-16,,(221)767-6133,wrightraymond@wright.com
+E0598,2024,Anthony Carroll,HR,Developer,117029,Resigned,2021-05-20,2024-10-14,130.779.3190x03012,xarnold@cooper.com
+E0599,2024,Yesenia Jones,Finance,Analyst,54978,Resigned,2015-01-02,,001-138-976-1203x2024,cynthia44@cobb-valdez.com
+E0600,2024,Robin Brown,Marketing,Lead,100733,Active,2019-11-26,,+1-653-486-3228,scottaaron@smith.org
+E0601,2024,Leslie Leonard,IT,Intern,155457,Active,2019-04-14,2024-06-12,,ysmith@gmail.com
+E0602,2024,Natalie Strong,Operations,Senior Manager,89762,Active,2013-08-02,,001-031-492-7189x8956,megan68@cox-olson.com
+E0603,2024,Bianca Thornton,Finance,Developer,107839,Resigned,2018-06-01,,,brianflowers@yahoo.com
+E0604,2024,Stephanie Olson,HR,Developer,119775,Active,2020-11-23,,645.191.2044x35195,freyes@yahoo.com
+E0605,2024,Kristi Meyers,Sales,Analyst,87949,Resigned,2015-02-03,,,
+E0606,2024,Luis Rasmussen,IT,Lead,132036,Active,2013-08-30,,984-303-4218x328,andrea00@carroll.com
+E0607,2024,David Alvarado,HR,Lead,120194,Active,2015-10-07,,205.331.7423x71479,
+E0608,2024,Jorge Woods,IT,Intern,59233,Active,2013-03-31,,(596)502-5462x080,raymichael@nelson.com
+E0609,2024,Anthony Beasley,Operations,Intern,79490,Active,2014-08-06,,4641458063,smithrebecca@lyons.org
+E0610,2024,Ann Evans,IT,Analyst,84305,Resigned,2016-03-12,,(124)395-8399x8126,butlerangela@brady.com
+E0611,2024,Barbara Sanchez,Operations,Lead,131025,Active,2016-09-04,,,vanessa89@gmail.com
+E0612,2024,Scott Hicks,IT,Senior Manager,86917,Resigned,2018-05-11,,(816)239-8198,jessica30@hotmail.com
+E0613,2024,Caitlin Navarro,Marketing,Senior Manager,35717,Active,2013-11-26,,,alexanderkenneth@gmail.com
+E0614,2024,Hunter Roth,Sales,Senior Manager,120835,Active,2015-07-21,,748.425.6103,
+E0615,2024,Chad Gregory,HR,,104771,Active,2014-07-17,,,
+E0616,2024,Robert Ward,IT,Intern,93410,Active,2013-03-27,2024-10-10,2821729575,johnbernard@mccarthy.com
+E0617,2024,Joseph Hernandez,Sales,Lead,86944,Active,2018-10-24,2024-03-20,+1-902-498-8119x82542,kennedyalicia@hotmail.com
+E0618,2024,Kathryn Walker,Operations,Manager,98187,Active,2018-08-08,,8364128121,angela85@gmail.com
+E0619,2024,Michael Smith,Sales,Intern,139655,Active,2018-10-11,,914-875-2803x24069,johnnythomas@gmail.com
+E0620,2024,Tiffany Allen,HR,Lead,110945,Resigned,2021-01-16,,110.414.4779x4867,justingay@yahoo.com
+E0621,2024,Christina Hernandez,Operations,Lead,69295,Active,2021-03-06,,067-509-3025x3505,
+E0622,2024,Derrick Brown,HR,Developer,82720,Active,2019-06-26,,,mitchelljennifer@yahoo.com
+E0623,2024,James Cowan,IT,Senior Manager,134759,Resigned,2021-01-30,2024-11-02,+1-969-996-7182,nhiggins@stewart-smith.org
+E0624,2024,Douglas Perez,Finance,Senior Manager,108150,Active,2021-10-17,,610-913-8877,bradleymatthew@dodson.biz
+E0625,2024,Daniel Jenkins,Marketing,Intern,130314,Active,2016-12-02,2024-04-05,+1-362-980-1469x324,michael84@pitts-zamora.com
+E0626,2024,Christopher Oneill,Sales,Intern,79628,Active,2021-08-02,,(594)908-3980x2597,philip99@briggs.biz
+E0627,2024,Christine Cox,Operations,Analyst,68367,Active,2021-03-23,,+1-910-883-6948,
+E0628,2024,Charles Robinson,IT,Manager,126846,Active,2020-04-19,,622-659-1006,pachecolaura@kim.net
+E0629,2024,Roger Brady,IT,Analyst,39068,Resigned,2014-02-03,2024-12-16,,scarroll@hood-nguyen.biz
+E0630,2024,Heather Harris,IT,Lead,106459,Active,2021-01-31,,,jaimesavage@maxwell-parks.com
+E0631,2024,Michael Cline,IT,Manager,55281,Active,2014-07-22,,675-577-1894x574,timothy24@yahoo.com
+E0632,2024,Mary Ewing,IT,Intern,79910,Active,2020-10-02,,,ethomas@rose-jordan.info
+E0633,2024,Bobby Walter,Sales,Senior Manager,112182,Active,2023-08-09,,(712)068-4516x1128,hernandezkimberly@baxter-perez.com
+E0634,2024,Deborah Smith,HR,Analyst,99310,Resigned,2015-04-04,,708-631-0055,justinrodriguez@smith.com
+E0635,2024,Nancy Kennedy,HR,Manager,84968,Active,2019-06-27,,605-257-7526,josephhoffman@hotmail.com
+E0636,2024,Brian Campbell,Operations,Developer,62728,Active,2014-07-12,,,kevin52@gutierrez-coleman.com
+E0637,2024,Anthony Kelley MD,IT,Analyst,135613,Active,2013-09-29,,7673561183,richardhill@davis-lloyd.com
+E0638,2024,Ashley Compton,Marketing,Lead,112353,Active,2019-01-24,,(245)255-3517,michaelhayes@hotmail.com
+E0639,2024,Jessica Robles,Finance,Lead,50345,Active,2018-02-19,,,nelsongarrett@bullock.net
+E0640,2024,Karen Brown,IT,Intern,66628,Resigned,2018-07-06,2024-05-15,,bobby16@hotmail.com
+E0641,2024,James Mcdonald,Operations,Intern,52185,Active,2017-11-10,,(506)273-9576x2130,rfields@lee.com
+E0642,2024,Tom Cobb,Finance,Developer,40677,Active,2023-03-19,,556-676-3492x4701,hernandezjason@yahoo.com
+E0643,2024,Cindy Anderson,HR,Intern,117745,Active,2021-09-03,,,kmiranda@burns-alexander.info
+E0644,2024,Christian Petersen,Marketing,Analyst,151795,Active,2019-05-29,2024-07-11,+1-696-525-2990x5074,christyingram@gmail.com
+E0645,2024,Robin Jones,Operations,Developer,48491,Active,2016-01-03,,+1-817-874-3326x48264,garystevenson@garcia.info
+E0646,2024,Patricia Griffin,HR,Intern,148364,Active,2023-11-20,,,qfrazier@phillips.com
+E0647,2024,Kathryn Wright,Operations,Lead,41344,Active,2023-08-05,,001-591-152-7278x71151,lynchjoseph@miller.net
+E0648,2024,Zachary Campbell,Finance,Lead,46906,Active,2023-10-31,,547.591.5965,burnsmary@allison.com
+E0649,2024,Brenda Cobb,HR,Lead,102727,Active,2020-02-13,2024-03-06,001-082-602-3102,johnsonjonathan@wilson.com
+E0650,2024,Matthew Berry,IT,Intern,52643,Resigned,2020-10-09,,(872)502-4433,thompsonmichael@gmail.com
+E0651,2024,Jason Sanchez,Operations,Analyst,132985,Resigned,2020-04-10,,+1-883-917-4758x9900,samantha32@gmail.com
+E0652,2024,Adam Lambert,Marketing,Senior Manager,63520,Resigned,2017-05-16,,1480651786,
+E0653,2024,Kathy Watson,Marketing,Analyst,99462,Resigned,2015-04-11,,(437)868-2901x54902,mbranch@hotmail.com
+E0654,2024,Robin Padilla,Marketing,Senior Manager,145809,Active,2014-05-11,,001-346-329-2205,
+E0655,2024,Ronald Mills,IT,Analyst,107087,Active,2018-10-27,,,brownlauren@yahoo.com
+E0656,2024,Katrina Gonzalez,Finance,Manager,74441,Resigned,2019-08-16,,,karen45@harrison.com
+E0657,2024,Jennifer Fisher,Operations,,73372,Active,2017-10-17,,585-781-0221,qcampbell@yahoo.com
+E0658,2024,Brianna Owens,IT,Analyst,42731,Active,2023-05-22,2024-03-27,,qhancock@yahoo.com
+E0659,2024,Tyler Williams,Sales,Developer,98021,Active,2020-09-28,,,xclements@howe-johnson.net
+E0660,2024,Robert Lopez,Sales,Lead,26213,Active,2014-03-16,,490-761-0519x8773,rodney45@rodriguez.com
+E0661,2024,Brittany Sandoval,HR,Analyst,87911,Resigned,2017-11-07,,829-555-6360x5063,kimberly31@gmail.com
+E0662,2024,Justin Alvarado,IT,Intern,87780,Active,2019-11-01,,001-072-042-7212x8654,weaverdavid@hotmail.com
+E0663,2024,Steven Gray,Marketing,Senior Manager,103938,Active,2014-06-17,,582.257.9675,james38@gmail.com
+E0664,2024,Jennifer Morgan,Finance,Analyst,133298,Active,2014-08-19,,,farmerjames@higgins-franco.net
+E0665,2024,Aaron Miller,Marketing,Intern,118914,Active,2016-04-23,2024-06-26,693.995.5728,robert75@soto.com
+E0666,2024,Natalie Cochran,HR,Lead,151536,Resigned,2017-07-07,,2482249959,brittany27@blanchard.biz
+E0667,2024,Amy Gibson,Operations,Manager,115952,Active,2016-06-12,,5362293251,vernontorres@chen.com
+E0668,2024,Benjamin Gregory,Operations,Manager,59426,Active,2015-10-25,,527.710.1707x3565,michaelday@gmail.com
+E0669,2024,Johnathan Villa,IT,Intern,56122,Active,2023-08-23,,(289)459-0797x9534,abigailmeyer@farrell.com
+E0670,2024,John Mendoza,Sales,Intern,37311,Active,2023-09-01,,0946885513,reynoldsjake@gmail.com
+E0671,2024,Eric Ferrell,IT,Analyst,56711,Active,2019-05-27,,566.629.4801x99565,jessicasampson@james.net
+E0672,2024,Chad Love,Sales,Developer,84010,Active,2014-06-19,,001-011-318-2136x65793,xkelly@gmail.com
+E0673,2024,James Gaines,Operations,Manager,133825,Active,2020-03-31,,946.050.2932x015,alexandra83@cline.com
+E0674,2024,Vernon Tyler,Operations,Analyst,97193,Active,2015-10-06,,(617)753-8173,michael31@hotmail.com
+E0675,2024,Mariah Cohen,Marketing,Manager,68021,Resigned,2014-12-13,,,nichole30@yahoo.com
+E0676,2024,Misty Little,Sales,Lead,113636,Active,2019-01-12,,(121)185-8711x940,
+E0677,2024,Megan Bradford,Sales,Manager,69395,Active,2018-07-24,,001-179-725-8923x43147,wongnicholas@johnson.info
+E0678,2024,Joshua Brooks,HR,Developer,46931,Resigned,2020-01-05,2024-11-26,946-265-0055x929,mark57@yahoo.com
+E0679,2024,Jamie Stewart,Sales,Intern,37712,Active,2020-09-30,,206.381.7972,
+E0680,2024,Kristen Hansen,Operations,Analyst,138274,Active,2015-02-24,2024-08-22,+1-289-859-1359,robert34@baldwin.biz
+E0681,2024,Robert Wilson,Marketing,Developer,75172,Active,2013-08-08,,001-201-922-9221x8898,qford@yahoo.com
+E0682,2024,Robin Preston,Operations,Senior Manager,141641,Active,2021-02-26,,+1-961-452-3271,xsnow@richardson-hunt.com
+E0683,2024,Sara Finley,Sales,Analyst,92951,Active,2013-07-29,,239.455.5427x8212,ylucas@hotmail.com
+E0684,2024,Christina Adkins,IT,Manager,142391,Active,2020-10-12,2024-07-12,001-602-691-3820,amanda49@baker-lopez.net
+E0685,2024,Julia Hensley,IT,Manager,87099,Resigned,2014-01-29,2024-07-20,(663)875-5156x1173,thompsonmelinda@johnson.com
+E0686,2024,Carol Garcia,IT,Analyst,122553,Active,2013-12-09,,910.174.2286x389,qbaldwin@garcia.com
+E0687,2024,Katherine Woodard,Sales,Developer,39238,Active,2019-07-10,,823-551-1240x626,
+E0688,2024,Julia West,Operations,Intern,114519,Resigned,2013-07-06,,+1-167-345-7891,woodjeffrey@gmail.com
+E0689,2024,Thomas Wilson,Finance,Manager,84029,Active,2013-07-03,2024-03-24,+1-789-159-2770x38587,
+E0690,2024,Jeremy Campbell,Sales,Lead,72261,Active,2017-01-24,,668.720.8830x26437,egreer@king.net
+E0691,2024,Maria Lyons,Sales,Developer,42800,Resigned,2020-10-16,,(429)994-1123,mbennett@gmail.com
+E0692,2024,Robert Young,Marketing,Intern,39043,Active,2017-07-14,2024-10-13,(094)539-8329x9194,
+E0693,2024,Sharon Johnson,Sales,Senior Manager,78924,Resigned,2019-08-24,,,kingmonica@buck-yu.com
+E0694,2024,Shane Dunn,HR,Intern,76441,Active,2022-12-29,,002-380-6748x9012,stanleymartinez@evans.com
+E0695,2024,Alicia Bryant,Marketing,Developer,122865,Resigned,2013-08-01,,570.049.4603x4462,katherine21@yahoo.com
+E0696,2024,Brenda Chan,Finance,Intern,140044,Resigned,2017-01-14,,091.751.8373x1111,christina32@wade.com
+E0697,2024,Jeffrey White,Marketing,Analyst,61895,Active,2013-07-15,,001-572-955-9266x06340,monique23@cox-mckinney.com
+E0698,2024,Christian Sanchez,IT,Analyst,78281,Resigned,2017-05-04,,885.683.4142x67144,portermatthew@hotmail.com
+E0699,2024,Alexandra Lam,Operations,Senior Manager,48534,Active,2022-12-10,,+1-228-607-9583x1103,anita35@clark.com
+E0700,2024,Natasha Payne,HR,Lead,53423,Active,2021-10-10,,262.528.0215,linda39@martin.net
+E0701,2024,Mrs. Stephanie Hernandez,Operations,Manager,141452,Active,2017-12-08,,+1-175-808-9994x022,amanda28@gmail.com
+E0702,2024,Leah Graham,Marketing,Developer,90220,Resigned,2015-12-30,,+1-098-489-6645x01028,jessica03@hotmail.com
+E0703,2024,Ryan White,IT,Analyst,148930,Active,2016-06-19,,,jennifer28@hotmail.com
+E0704,2024,Tracy Smith,Marketing,Lead,116779,Active,2014-11-16,,915-803-9248,andrew35@yahoo.com
+E0705,2024,Lori Owens,Marketing,Lead,89032,Active,2015-01-08,,,collin27@gmail.com
+E0706,2024,Heather Hart,Operations,Analyst,51453,Resigned,2017-08-17,,+1-434-328-9722x569,edward74@hotmail.com
+E0707,2024,Kelly Kelly,HR,Lead,80683,Active,2015-09-27,,,adam86@smith.com
+E0708,2024,Stephanie Cook,HR,Analyst,104724,Active,2014-02-12,,583-201-0460x1820,esmith@gmail.com
+E0709,2024,Jennifer Johnson,Finance,Manager,35878,Active,2014-04-10,,816-717-8406,qsmith@williams.org
+E0710,2024,Ann Mitchell,HR,Analyst,34861,Active,2022-06-12,,,millernatalie@hotmail.com
+E0711,2024,Francisco White,IT,Intern,147901,Active,2018-01-10,,469.109.8871,operez@johnson-huffman.net
+E0712,2024,Troy Bishop,HR,Intern,31120,Active,2021-09-03,,001-525-600-2318x3426,dana07@yahoo.com
+E0713,2024,Michelle Bryan,HR,Developer,62796,Resigned,2020-03-08,,(249)487-6532x7012,davismary@yahoo.com
+E0714,2024,Nicholas Wilson,HR,Analyst,119191,Resigned,2018-02-08,,,scott71@gmail.com
+E0715,2024,Jonathan Avila,Marketing,Senior Manager,61804,Active,2018-03-06,,001-353-877-8331x536,
+E0716,2024,Tiffany Martinez,HR,Senior Manager,52833,Active,2014-04-02,,9106034298,zdickson@hotmail.com
+E0717,2024,Jessica Lewis,Finance,,126679,Active,2022-04-08,,,candace04@booker.com
+E0718,2024,Timothy Pearson,Marketing,Intern,42887,Active,2014-07-13,2024-12-28,309.036.3255x63161,ppowell@hotmail.com
+E0719,2024,Tina Flores,HR,Developer,112534,Active,2018-08-27,2024-04-26,,michaelpotts@gmail.com
+E0720,2024,Rachel Garcia,HR,Intern,95772,Active,2014-01-13,,,uaustin@gmail.com
+E0721,2024,Brianna Paul,Sales,Developer,55669,Active,2023-05-27,,7932934059,jenniferward@yahoo.com
+E0722,2024,Kathleen Baker,HR,Developer,57589,Active,2022-10-07,2024-03-15,,jennadavis@wall.com
+E0723,2024,Gerald Murray,Marketing,Analyst,77761,Active,2020-10-03,,2172574307,fuenteswilliam@hotmail.com
+E0724,2024,Craig Fernandez,Finance,Senior Manager,32301,Active,2014-04-15,,(542)155-5686x766,summersmark@yahoo.com
+E0725,2024,Hannah Jordan,Operations,Manager,32322,Active,2020-08-02,,200.221.8436,kirbypamela@allen.org
+E0726,2024,Deborah Melton,IT,Manager,90006,Resigned,2014-01-10,,+1-807-406-1584x3909,adam64@butler-roy.com
+E0727,2024,Shawna Brewer,Finance,Analyst,42038,Active,2015-09-03,,(557)962-3178x4258,wwagner@yahoo.com
+E0728,2024,Michelle Foster,Sales,Analyst,94412,Active,2014-03-06,,466.754.2726x3942,pattonvictor@yahoo.com
+E0729,2024,Kenneth Robinson,Operations,Lead,54125,Resigned,2017-07-01,,001-651-319-8812x9857,terri60@mora-jones.com
+E0730,2024,Stacey Hill,Finance,Manager,145770,Resigned,2017-04-13,,566-510-2680x80253,williamsnancy@yahoo.com
+E0731,2024,Marcus Estrada,IT,Senior Manager,125995,Active,2014-07-28,,212-045-8331x786,sandraallen@hotmail.com
+E0732,2024,Tabitha Perez,Sales,Developer,91185,Active,2014-10-03,2024-09-21,+1-167-883-2398x8654,darrensnyder@gmail.com
+E0733,2024,Traci Harper,Sales,Intern,53480,Resigned,2015-01-31,,,
+E0734,2024,Henry Flynn,HR,Manager,117652,Active,2016-10-10,,262-783-9297x66919,michaelspencer@lawrence.com
+E0735,2024,Alicia Howell DDS,IT,Analyst,116328,Active,2019-11-05,,7096593640,rebeccabell@yahoo.com
+E0736,2024,Kenneth Salinas,Sales,Senior Manager,106046,Active,2019-12-08,,182-184-8515,dwilliams@gmail.com
+E0737,2024,Kristin Thompson,HR,Lead,108150,Active,2021-11-05,,+1-720-485-4279,josephmassey@yahoo.com
+E0738,2024,Christopher Hall,Marketing,Intern,72849,Active,2020-12-30,,(397)077-0454x79982,erictorres@yahoo.com
+E0739,2024,Steven Diaz,Marketing,Intern,62955,Active,2017-08-08,2024-03-01,256-106-2634x7044,mary65@yahoo.com
+E0740,2024,Scott Torres,HR,Analyst,142680,Active,2019-05-18,,397.600.8700,tabithasteele@massey.biz
+E0741,2024,Patricia Kirby,Operations,Analyst,101596,Resigned,2020-12-27,,,michaelwarren@logan-nguyen.info
+E0742,2024,Joseph Swanson,HR,Developer,137651,Active,2018-07-02,2024-12-29,+1-461-565-2473x23426,dennisrice@hotmail.com
+E0743,2024,Lauren Scott,Operations,Intern,31573,Active,2015-08-07,,1572605573,hhall@hotmail.com
+E0744,2024,Mary Phillips,IT,Analyst,122505,Resigned,2014-09-14,2024-03-28,,josephhull@smith-mccall.com
+E0745,2024,Michael Anderson,IT,Analyst,49572,Active,2022-11-17,,,tsmith@mccarty-myers.org
+E0746,2024,Kathleen Nguyen,Operations,Lead,135775,Active,2016-01-23,,+1-096-485-7994x26216,timothy94@gmail.com
+E0747,2024,Laura Irwin,Marketing,Developer,47619,Active,2018-12-07,,+1-824-737-5364,vmanning@robertson.biz
+E0748,2024,Sarah Vargas,HR,Lead,98788,Active,2018-04-25,,312-444-1786,joshualawson@henderson-gross.com
+E0749,2024,Melanie Ballard,IT,Senior Manager,136957,Resigned,2016-02-21,2024-06-18,369-505-8086x97301,jodi49@thomas.com
+E0750,2024,Joshua Sandoval,Marketing,Analyst,62136,Active,2014-02-14,,,johnbrowning@reid.com
+E0751,2024,Emily Phillips,Marketing,Intern,45330,Active,2013-10-16,2024-10-27,603-639-6298x9537,campbellrachel@yahoo.com
+E0752,2024,Guy Lloyd,IT,Developer,56633,Resigned,2015-07-26,,001-473-837-9568x5369,asloan@molina.com
+E0753,2024,Kathy Benson,Finance,Lead,37055,Active,2023-05-17,2024-07-29,068.707.4440x67492,crawfordwilliam@gmail.com
+E0754,2024,Cindy Shaw,Operations,,65923,Resigned,2021-02-08,2024-03-06,001-482-080-3526x4092,hernandezmichael@gonzalez.net
+E0755,2024,Sandra Edwards,IT,Manager,70153,Resigned,2021-08-17,,196-099-2285x679,lukejohnson@velasquez.com
+E0756,2024,Julia Davidson,HR,Analyst,132414,Active,2021-06-28,,+1-097-989-3412x063,mezadustin@hotmail.com
+E0757,2024,Eugene Marsh DDS,Marketing,Lead,136097,Active,2023-01-25,,,madeline04@gmail.com
+E0758,2024,Michelle Lucas,Operations,Analyst,109530,Active,2021-10-20,,378-687-1745,egarcia@yahoo.com
+E0759,2024,Andrew Fernandez,Finance,Manager,51835,Active,2019-09-10,,(968)037-8113,stewartheather@fowler.net
+E0760,2024,Kathryn Franco,Sales,Analyst,80419,Active,2018-09-04,,+1-932-989-8145,katieyu@diaz.biz
+E0761,2024,Curtis Brown,Finance,Developer,130610,Resigned,2021-08-29,,424-011-2854,nathaniel09@bowman-vaughn.com
+E0762,2024,Joseph Reyes,IT,Intern,81971,Active,2021-04-10,2024-04-26,001-422-374-6363,mjones@yahoo.com
+E0763,2024,Nicholas Winters,Operations,Lead,111467,Active,2014-01-30,,+1-295-025-0068x0003,emilymoore@hotmail.com
+E0764,2024,Austin Odonnell,Finance,Senior Manager,52748,Active,2017-10-31,2024-07-12,529.034.6071x57072,robbinsrobert@yahoo.com
+E0765,2024,Aaron Cooper,Finance,Developer,135440,Active,2023-01-21,,811.245.8960x417,martinezjessica@gmail.com
+E0766,2024,Brandy Henry,IT,Intern,72577,Active,2013-10-20,,4357281721,annagibson@yahoo.com
+E0767,2024,Devin Carpenter,Marketing,Lead,108274,Resigned,2015-04-16,,(286)301-1191x19603,dana40@washington-guerrero.biz
+E0768,2024,Joshua Lee,IT,Analyst,133307,Active,2013-05-10,,106.331.8589x417,jessica64@gmail.com
+E0769,2024,Tracy Mueller,HR,Developer,117705,Resigned,2015-06-04,,+1-092-477-3577,bthomas@yahoo.com
+E0770,2024,Chelsea Marsh,IT,Lead,113814,Active,2016-05-20,2024-10-05,+1-702-464-3721,feliciacunningham@clark-young.info
+E0771,2024,David Jacobs,HR,Developer,95031,Active,2020-12-24,,(673)195-1238x46307,ashleybennett@yahoo.com
+E0772,2024,Thomas Miller,Sales,Senior Manager,136527,Active,2021-11-05,,001-068-327-7814,xdavis@yahoo.com
+E0773,2024,Cody Turner,HR,Manager,147024,Active,2020-11-20,,001-191-731-6037x87456,maria74@hotmail.com
+E0774,2024,Benjamin Avila,Sales,Analyst,50756,Active,2021-08-29,,,paulcarlson@frederick.com
+E0775,2024,Holly Flores,Sales,Manager,129772,Active,2023-02-19,,192-042-2551,lisa06@hotmail.com
+E0776,2024,Crystal Yates,Marketing,Intern,54773,Active,2023-07-07,2024-05-01,171.618.4044x3559,deborah24@yahoo.com
+E0777,2024,Jason Dixon,Marketing,,53995,Active,2017-05-24,,400-801-8916x5508,
+E0778,2024,David Jones,Sales,Analyst,98664,Resigned,2020-07-21,,+1-663-129-9264,wmeyer@hotmail.com
+E0779,2024,Robin Stewart,Finance,Intern,47954,Active,2019-03-03,,(338)356-5527,michael89@yahoo.com
+E0780,2024,Eric Davis,IT,Intern,77662,Active,2023-07-24,,+1-317-391-4888,ronald59@hotmail.com
+E0781,2024,Casey Miller,Sales,Manager,46095,Active,2018-06-04,,630-540-0025x0561,tracy34@cruz.com
+E0782,2024,Steven Moreno,Operations,Manager,112683,Resigned,2019-06-13,2024-06-28,(440)241-6568,frederick82@mcdonald.net
+E0783,2024,Kimberly Wiley,Operations,Lead,134863,Active,2023-10-04,,026-741-9346,vsullivan@barajas-king.com
+E0784,2024,Jacqueline Baker,Finance,Senior Manager,47636,Active,2015-07-23,,454-676-7981,vburton@moore-jones.net
+E0785,2024,Michele Meyer,Finance,Developer,128900,Active,2015-06-10,,(626)606-9149x505,johnsondustin@harris-murray.com
+E0786,2024,Melissa Knight,Marketing,Analyst,136215,Active,2013-01-17,,,kararyan@anderson.net
+E0787,2024,Patrick Delgado,Finance,Manager,27383,Active,2018-06-22,,001-253-147-1038,xanderson@hotmail.com
+E0788,2024,Brittany Kelly,HR,Lead,137734,Resigned,2014-09-28,,,qrodriguez@yahoo.com
+E0789,2024,Kenneth Griffin,Operations,Analyst,83829,Resigned,2016-07-18,2024-03-14,,zmartin@gmail.com
+E0790,2024,Amy Carter,IT,Manager,132831,Resigned,2016-09-14,,,weberjohn@gonzalez.biz
+E0791,2024,Linda Lang,HR,Analyst,71049,Active,2021-02-16,,763-750-4907x52913,gonzalezsamuel@wagner.net
+E0792,2024,Lisa Ball,HR,Lead,66425,Active,2023-12-29,,836-631-2891x1393,
+E0793,2024,Jeffrey Hoffman,Finance,Intern,138774,Active,2014-12-16,2024-08-15,265-404-2613x2277,alex31@singh-coffey.info
+E0794,2024,Brian Massey,Marketing,Developer,63659,Active,2014-10-31,2024-10-30,432.325.7595x8657,millerronald@barr-lane.net
+E0795,2024,James Smith,Marketing,Analyst,148081,Active,2018-10-26,,2663380073,
+E0796,2024,David Nolan,IT,Analyst,80636,Active,2017-04-23,,,leehaley@gmail.com
+E0797,2024,Eric Davis,Marketing,Analyst,34953,Resigned,2021-12-28,2024-08-31,030.809.1933x18504,njackson@cook.net
+E0798,2024,Tanya Stafford,IT,Analyst,51961,Resigned,2017-04-25,,(140)556-0921x011,
+E0799,2024,Barbara Barnes MD,IT,Senior Manager,128223,Resigned,2015-08-15,,(572)664-4673,vanessa89@scott.biz
+E0800,2024,Kathleen Miller,Sales,Lead,132938,Active,2019-03-12,,001-363-843-3761,gonzaleztodd@clark-spears.com
+E0801,2024,Jermaine Patel,Sales,Lead,41166,Active,2022-10-22,,+1-767-836-8882x680,james24@hall.biz
+E0802,2024,Brett Robbins,Marketing,Manager,47170,Active,2023-10-21,,768-731-4209x670,wmckinney@butler.info
+E0803,2024,Tracy Young,Finance,Intern,138189,Resigned,2018-09-15,,001-812-039-7499x1929,
+E0804,2024,Andrew Dean,Finance,Manager,66192,Resigned,2015-03-15,,(639)223-4329x916,ydavis@weaver.com
+E0805,2024,Janet Higgins,Operations,Lead,148368,Resigned,2018-12-15,,5002520860,qsmith@yahoo.com
+E0806,2024,Susan Holden,Finance,Manager,35512,Active,2014-02-21,,539-993-7164,grobertson@payne.com
+E0807,2024,Victor Weber,Operations,Lead,89294,Active,2017-05-10,,,brownjose@hotmail.com
+E0808,2024,Donna Mccarthy,Operations,Lead,25388,Active,2014-04-01,2024-12-18,(054)974-3018x8800,justinsanders@ellis.info
+E0809,2024,Jaime Bennett DVM,Sales,Developer,125212,Active,2014-08-23,,649.009.0494,
+E0810,2024,Samantha Reed,IT,Senior Manager,104821,Active,2015-06-27,,288-348-4297x48614,susanglenn@flores-kramer.com
+E0811,2024,Amy Patterson,Finance,Intern,140994,Active,2015-08-03,2024-07-05,1839975330,elizabethbarajas@gmail.com
+E0812,2024,Thomas Carr,HR,Manager,29875,Resigned,2020-06-17,,539-773-6224x2899,
+E0813,2024,Destiny Hatfield,Sales,Intern,70744,Active,2022-10-24,,9761133922,cjones@hotmail.com
+E0814,2024,Samuel Thomas,Operations,Analyst,66119,Active,2021-07-08,,001-153-644-0152x6085,nalexander@barton.net
+E0815,2024,Seth Mccoy,IT,Intern,54584,Active,2022-08-05,,,gomezlindsey@yahoo.com
+E0816,2024,Brenda Black,Operations,Intern,69293,Active,2017-04-17,,150.931.8551x09135,cgonzalez@duncan-jones.com
+E0817,2024,Emily Miller,Operations,Analyst,118682,Resigned,2023-12-08,,001-573-218-4746,powellsharon@martin-franklin.com
+E0818,2024,Eric Fitzgerald,Sales,Intern,60895,Resigned,2020-09-02,,998.464.5384,curtisnancy@moore.com
+E0819,2024,Richard Wells,Marketing,Analyst,150741,Active,2018-05-20,,721-132-1483x281,omargutierrez@yahoo.com
+E0820,2024,Mike Olson,Sales,Intern,84719,Active,2016-04-13,,(224)486-9403x7933,maryhuber@yahoo.com
+E0821,2024,Lawrence Price,IT,Analyst,115052,Resigned,2023-04-10,2024-05-13,001-797-391-7722x830,mmichael@hotmail.com
+E0822,2024,Robert Shaffer,IT,Manager,113307,Active,2023-07-26,,(919)797-8996,brownkimberly@hayes.biz
+E0823,2024,Kenneth Ochoa,Operations,Analyst,91607,Resigned,2023-08-01,2024-12-24,,dlogan@gmail.com
+E0824,2024,Mark Molina,HR,Lead,49140,Resigned,2023-10-13,,344-642-3505,patricia68@walker.org
+E0825,2024,Trevor Cisneros,Operations,Developer,108960,Resigned,2014-04-17,,(239)242-4638x33737,
+E0826,2024,Michelle Kaufman,HR,Intern,89305,Resigned,2014-05-02,,485.267.1616x932,
+E0827,2024,Katie Stone,IT,Lead,124142,Active,2019-12-01,,+1-743-740-4728x890,mary02@yahoo.com
+E0828,2024,Danielle Evans,HR,Analyst,41788,Active,2022-02-23,,,casey77@yahoo.com
+E0829,2024,Kristy Moran,Sales,Analyst,37581,Active,2014-04-12,2024-08-01,,cynthianorton@joseph.biz
+E0830,2024,Michelle Valencia,Marketing,Lead,120056,Active,2015-06-26,2024-11-17,(496)341-1591x01480,kelseydixon@flowers-west.com
+E0831,2024,Tammy Wheeler,Marketing,Senior Manager,134966,Active,2013-08-31,2024-03-29,,seanwatson@yahoo.com
+E0832,2024,Diana Murray,Sales,Manager,82254,Active,2013-07-03,,1887275442,joseph93@yahoo.com
+E0833,2024,Anthony Davis,Sales,Manager,131690,Active,2019-05-11,,,
+E0834,2024,Erica Parker,HR,Manager,132610,Active,2021-09-11,,(629)306-2467x035,maryhill@hotmail.com
+E0835,2024,Amanda Ryan,Marketing,Senior Manager,107905,Active,2017-04-19,,001-315-547-9355x936,alicia41@nunez.com
+E0836,2024,Sally Gonzales,HR,Developer,122112,Active,2023-08-24,,001-478-747-9633x333,
+E0837,2024,Stephanie Hernandez,Marketing,Intern,34800,Active,2021-02-27,,,jcooper@yahoo.com
+E0838,2024,Stephanie Hawkins,Sales,Developer,43867,Active,2022-04-20,,345.634.0102x63516,danielle66@gmail.com
+E0839,2024,Casey Torres,Marketing,Intern,139896,Active,2013-11-01,,726.417.9780x6836,juliecollins@davis-gray.biz
+E0840,2024,Kendra Benson,Operations,Lead,35856,Active,2016-08-16,,012-249-1821x582,brubio@hotmail.com
+E0841,2024,Anne Anderson,HR,Analyst,95728,Active,2022-11-29,,001-865-450-5722,anthonypace@ewing.com
+E0842,2024,Anna Burton,HR,Manager,105122,Active,2017-08-26,,(683)719-1198x8085,caldwellerin@goodman.info
+E0843,2024,Krista Hill,Marketing,Senior Manager,74521,Active,2020-08-20,2024-11-14,378-361-7906,phamcharles@hotmail.com
+E0844,2024,Morgan Figueroa,Operations,Intern,43954,Active,2020-05-17,,(202)552-4545x53249,lisahampton@hotmail.com
+E0845,2024,William Garner,Marketing,Senior Manager,114565,Active,2017-12-03,,272-863-1028x309,
+E0846,2024,Micheal Garrett,Operations,Developer,36077,Active,2022-06-17,,6861450311,michelle95@gmail.com
+E0847,2024,Jessica Bartlett,HR,Intern,56380,Active,2016-01-13,2024-10-08,+1-780-390-7649x112,taylorgeorge@burton.com
+E0848,2024,Eric Jefferson,IT,,98418,Active,2018-10-19,,565-103-7564,hamiltonjeremy@lee.org
+E0849,2024,Stephanie Clark,HR,,119600,Active,2023-07-06,,001-603-844-3893x1264,lopezregina@bell.com
+E0850,2024,Emily Jones,HR,Lead,98661,Active,2018-10-26,,,
+E0851,2024,David Trujillo,,Senior Manager,95457,Active,2015-06-17,,158-910-5202,christopherho@yahoo.com
+E0852,2024,Andrea Hendricks DVM,Marketing,Analyst,59100,Active,2020-06-17,,596.600.1171x3456,huntercaroline@johnson.org
+E0853,2024,Stephen Bean,Finance,Developer,131491,Active,2013-08-01,,551.115.4592,ecardenas@molina.com
+E0854,2024,Sara Christian,HR,Analyst,117897,Active,2021-10-29,,001-898-246-6635x10552,mark92@gmail.com
+E0855,2024,Michael Scott,Finance,Developer,55627,Active,2013-12-19,,+1-134-240-8891,maymichael@smith.com
+E0856,2024,John Perez,Marketing,Intern,58964,Resigned,2022-01-17,,610-750-3552,joshuataylor@gmail.com
+E0857,2024,Patrick Durham,Operations,Senior Manager,83719,Active,2017-12-28,,914.287.7311,lorisanchez@ward.com
+E0858,2024,Andrew Mason,Finance,Lead,106373,Active,2016-05-13,,+1-142-730-9283,dhorne@yahoo.com
+E0859,2024,Gary Castillo,IT,Analyst,30628,Resigned,2018-09-10,2024-09-03,472-445-5967x094,linda29@hotmail.com
+E0860,2024,Edward Larson,IT,Manager,107195,Resigned,2017-01-13,,542.897.1654x938,cspence@gmail.com
+E0861,2024,Christopher Suarez,Sales,Developer,103129,Active,2019-12-16,,001-762-412-3846x659,vsantiago@yahoo.com
+E0862,2024,Paul Walter,HR,Manager,92635,Active,2016-12-17,,777.218.2956x114,mnash@gmail.com
+E0863,2024,Robert Walker,Operations,Intern,95431,Active,2018-03-12,,001-242-123-0188,daveedwards@gmail.com
+E0864,2024,Erin Maldonado,HR,Senior Manager,81735,Active,2019-03-30,,667-460-6918,josephlopez@hotmail.com
+E0865,2024,George Moore,Operations,Manager,58953,Active,2013-03-12,,(792)487-7820x7785,zoliver@sanchez-marshall.com
+E0866,2024,Linda Simmons,HR,Developer,108394,Active,2023-06-18,,(606)244-8283,bskinner@yahoo.com
+E0867,2024,Michael Delacruz,Sales,Manager,43026,Active,2021-08-06,,+1-013-213-4370x641,srodriguez@hotmail.com
+E0868,2024,Brandon Taylor,Finance,,36363,Active,2017-12-07,,635.923.2106,ogardner@gmail.com
+E0869,2024,Wendy Lin,IT,Manager,141365,Resigned,2022-07-12,,(910)266-6056,andrerodriguez@hotmail.com
+E0870,2024,Christopher Elliott,Sales,Senior Manager,45405,Active,2016-08-14,,751-913-9529,
+E0871,2024,Michael Miller,Sales,Developer,82552,Active,2022-09-10,,764.081.5715x164,whitechristopher@gmail.com
+E0872,2024,Sydney Dalton,Operations,Senior Manager,87314,Active,2022-03-27,,(834)063-5488,jenniferchurch@jenkins-meyer.com
+E0873,2024,Gregory Parker,Finance,Manager,34248,Active,2022-05-14,,+1-794-666-0862x395,millerjackie@yahoo.com
+E0874,2024,Dana Moore,Marketing,Developer,46129,Active,2022-11-01,2024-08-07,(350)825-1871x19692,eevans@brown.info
+E0875,2024,Scott Horton,Operations,Lead,94305,Active,2018-01-18,,+1-477-095-4143x11505,
+E0876,2024,Trevor Jones,Finance,Lead,78245,Resigned,2014-12-19,,001-623-259-8259x9044,bsmith@fletcher.com
+E0877,2024,Paul Herrera,Sales,Senior Manager,46269,Active,2017-08-18,,,erica98@kirby.net
+E0878,2024,Connie Miller,IT,Developer,107976,Resigned,2023-11-05,,795-761-7029x875,garzaelizabeth@evans-martin.net
+E0879,2024,Victoria Tucker,IT,Lead,60402,Resigned,2015-07-03,2024-06-15,(785)561-7203x08117,kcole@hotmail.com
+E0880,2024,Kevin Payne,Marketing,Analyst,98055,Resigned,2014-03-04,2024-09-09,,matthewbrewer@thomas.org
+E0881,2024,Kristin Sutton,Sales,Developer,39699,Resigned,2015-09-01,,892.414.7889,
+E0882,2024,Danielle Willis,Operations,Analyst,37318,Resigned,2014-09-18,,+1-656-339-2170x35644,
+E0883,2024,Jose Baker,HR,Analyst,66838,Active,2020-06-21,,+1-017-418-7727x49113,danielle10@yahoo.com
+E0884,2024,Tina Cunningham,Sales,Manager,89226,Active,2023-07-05,,,awest@yahoo.com
+E0885,2024,Damon Barber,Operations,Analyst,130772,Resigned,2022-05-25,,280-773-7243x45097,andersonjonathan@gmail.com
+E0886,2024,Danielle Hughes,Sales,Lead,143856,Active,2013-06-06,,073-461-1448x2990,
+E0887,2024,Mr. Robert Becker,Sales,Intern,92509,Active,2019-10-25,,(162)091-4086x095,
+E0888,2024,Michael Fields,Operations,Intern,140121,Resigned,2022-03-28,,952.366.5838,bradleyjones@neal.org
+E0889,2024,Cory Ferguson,Operations,Lead,126198,Active,2017-10-22,,4297362966,charles85@mills.biz
+E0890,2024,Jamie Martin,Finance,Intern,151616,Active,2022-02-27,2024-05-17,(475)112-7530x82642,robert47@hotmail.com
+E0891,2024,Angela Contreras,HR,Analyst,36552,Active,2018-03-04,,(521)646-5496x220,owarner@moore.com
+E0892,2024,Casey Brown,,Senior Manager,129235,Active,2017-07-17,,440.665.2483,okey@gmail.com
+E0893,2024,Carly Terry,HR,Intern,54328,Active,2018-11-01,,(707)691-2360x79316,hpena@yahoo.com
+E0894,2024,Alexa Davis,Sales,Developer,102081,Active,2023-06-05,,919-332-2711,luis31@ballard.com
+E0895,2024,Joyce Jefferson,IT,Analyst,27071,Active,2018-06-21,,+1-932-478-2749,
+E0896,2024,Gregory Garrett,IT,Intern,115633,Active,2013-05-14,,313.972.8386x97988,michelletaylor@yahoo.com
+E0897,2024,Jenna Black,Marketing,Manager,53894,Active,2022-11-09,,081-888-9789x082,davidsmith@yahoo.com
+E0898,2024,Ashley Case,Operations,Developer,147753,Resigned,2019-10-02,,001-759-814-4143,james65@gmail.com
+E0899,2024,Nancy Hall,HR,Intern,132032,Active,2013-02-26,,+1-211-391-9491,martinbrian@hotmail.com
+E0900,2024,Kristen Hunt,Marketing,,112673,Active,2016-12-17,,0589378829,cellis@lindsey.com
+E0901,2024,Emma Patterson,Sales,Analyst,147245,Active,2018-12-18,,470-509-1219,matthewbrown@yahoo.com
+E0902,2024,April Miller,Finance,Manager,136027,Active,2017-08-15,,545.173.3909,wsweeney@murphy-hopkins.biz
+E0903,2024,Erin Williams,HR,Lead,72516,Active,2021-03-16,,001-671-868-6127x2203,ljohnson@yahoo.com
+E0904,2024,Jessica Woodard,Sales,Analyst,147398,Active,2017-12-29,2024-06-19,,teresa77@yahoo.com
+E0905,2024,Sonya Cobb,Finance,Developer,136093,Active,2021-06-10,,,ramirezjoseph@harris.biz
+E0906,2024,David Kramer,HR,Senior Manager,113981,Active,2018-12-22,,001-275-216-3839x16209,grahamnicole@hicks.com
+E0907,2024,Derek Stewart,HR,Senior Manager,32864,Active,2021-03-21,,+1-551-921-4396x8908,mwood@johnson.biz
+E0908,2024,John Stafford,Marketing,,66992,Active,2014-12-17,,(887)149-4501x6030,sdrake@hotmail.com
+E0909,2024,Mrs. Mariah King,Finance,Analyst,79579,Resigned,2020-06-30,,,qwhitney@yahoo.com
+E0910,2024,Mark George,Sales,Lead,132771,Active,2017-09-17,,(725)437-1282x1642,mary09@hotmail.com
+E0911,2024,Sarah Barron,Marketing,Analyst,128041,Resigned,2023-01-29,,144-396-0678x63912,liudennis@anderson.com
+E0912,2024,Andrew Coffey,Marketing,Senior Manager,122915,Active,2015-10-23,,640-455-5190x1849,qzimmerman@gmail.com
+E0913,2024,Joshua Logan,Marketing,Developer,48928,Active,2015-05-21,,001-638-969-0428x162,ymiller@bishop-hendricks.biz
+E0914,2024,Vanessa Ball,Finance,Analyst,59093,Resigned,2021-10-04,,860-742-8617x73432,christopher55@klein.biz
+E0915,2024,David Patel,Marketing,Analyst,150208,Active,2021-03-11,,,antonioshannon@yahoo.com
+E0916,2024,Jeanette Collins,Marketing,Senior Manager,43806,Active,2022-01-01,,181-881-1808,
+E0917,2024,Stephanie Blackburn,Sales,Senior Manager,107441,Active,2014-03-23,2024-11-12,001-400-384-9606x522,
+E0918,2024,Heather Pacheco,IT,Senior Manager,94736,Resigned,2019-06-01,2024-06-23,930-943-5153x5373,laura51@gmail.com
+E0919,2024,Robert Weeks,HR,Lead,35123,Resigned,2018-11-06,2024-08-07,155-936-6344x6397,zlong@yahoo.com
+E0920,2024,Ashley Rios,HR,Senior Manager,28377,Active,2015-05-16,,(231)293-3021x0761,zachary85@walls-aguilar.net
+E0921,2024,Mario Suarez,Operations,Intern,56108,Resigned,2015-07-17,2024-03-17,845.349.1956x7028,charlesmartin@gmail.com
+E0922,2024,Johnny Smith,Sales,Intern,79694,Active,2019-04-21,,+1-452-865-6457x247,
+E0923,2024,Juan Torres,HR,Lead,96715,Active,2017-10-13,,6909895203,angela37@yahoo.com
+E0924,2024,Peggy Bowers,Finance,Manager,111393,Resigned,2021-05-26,,(611)277-5303x14056,campbellcynthia@gibson.com
+E0925,2024,Jennifer Holland,Operations,Intern,63144,Active,2020-02-08,,001-551-461-7959x44329,gmelendez@hart.biz
+E0926,2024,Corey Davis,Sales,Manager,140905,Active,2022-07-18,,800.800.9450x82417,
+E0927,2024,Joan Rogers,HR,Lead,120972,Resigned,2019-08-22,,668-279-7473x13269,william64@hotmail.com
+E0928,2024,Brittney Stokes,HR,Manager,67041,Active,2021-02-06,,268.589.5356x8150,bswanson@ramsey.com
+E0929,2024,Casey Fleming,IT,Developer,54064,Active,2020-01-13,,001-560-993-5420x8896,
+E0930,2024,Matthew Brown,Sales,Developer,35957,Active,2022-09-09,,+1-863-365-1138x90759,allisonmurphy@bridges.com
+E0931,2024,Scott Rasmussen,Operations,Developer,31337,Active,2014-03-14,,+1-782-684-4961x3160,
+E0932,2024,Michael Moody,Sales,Manager,140194,Active,2018-05-09,,581-592-9144x036,msummers@stevens-morse.com
+E0933,2024,Corey Mendoza,IT,Developer,152907,Active,2018-09-30,,+1-070-387-2719x930,lunajohn@mann.biz
+E0934,2024,Fernando Ward,Marketing,Senior Manager,66306,Active,2014-06-18,,(489)337-9492x991,kimberlyharvey@yahoo.com
+E0935,2024,Michelle Shepard,Marketing,Senior Manager,98624,Active,2017-11-20,,462.773.6218,hamptonstephanie@gmail.com
+E0936,2024,Elizabeth Williams,Sales,Lead,75291,Active,2016-04-13,,982-792-6078x4634,petertaylor@austin.com
+E0937,2024,Donald Robinson,HR,Manager,79305,Active,2017-01-11,,,
+E0938,2024,Andrea Saunders,Operations,Manager,45540,Active,2017-08-06,,8078653046,barrywalker@yahoo.com
+E0939,2024,Jennifer Thompson,Operations,Manager,47753,Active,2017-12-22,,+1-444-772-5548x755,daydaniel@hotmail.com
+E0940,2024,Melissa Jordan,HR,Analyst,80527,Active,2015-01-05,,444.088.6755x08472,
+E0941,2024,Melissa Parker,Finance,Developer,26092,Resigned,2017-09-17,,(651)015-9770,reginald92@gmail.com
+E0942,2024,Kara Brown,Sales,Analyst,92351,Resigned,2015-03-12,,,hayesterri@henderson.com
+E0943,2024,Charles Hawkins,Marketing,Intern,120352,Active,2022-01-06,2024-03-26,(849)225-2639,julieandrews@bradford.org
+E0944,2024,Stacey Hampton,Marketing,Senior Manager,144507,Active,2015-03-09,,,
+E0945,2024,Jose Johnson,Finance,Manager,49125,Active,2018-06-30,,(267)350-3813x76525,johnsonvanessa@melton-mendoza.net
+E0946,2024,William Smith,IT,Developer,125465,Active,2018-08-20,,,donaldtaylor@williams.com
+E0947,2024,Michael Schmidt,IT,,68670,Active,2020-12-31,,+1-227-286-9584,gibbslori@rios.com
+E0948,2024,Jordan Sharp,Marketing,Intern,142882,Active,2022-11-01,,001-967-816-9376x443,tramos@hotmail.com
+E0949,2024,Heather Hopkins,IT,Manager,134291,Active,2015-05-02,2024-03-28,689.018.0646x250,tiffany48@yahoo.com
+E0950,2024,William Randall,Marketing,Senior Manager,42792,Resigned,2018-08-31,,(104)366-3599x76326,
+E0951,2024,Angela Thomas,HR,Intern,117939,Active,2014-03-17,,,msanchez@hotmail.com
+E0952,2024,Bruce Martinez,HR,Lead,85729,Resigned,2014-09-19,,,jay50@daniels-kennedy.com
+E0953,2024,Jennifer Martin,HR,Senior Manager,31869,Active,2014-05-09,,,lflores@gmail.com
+E0954,2024,Natasha Butler,Operations,Developer,110996,Active,2019-06-01,,056-721-6440x579,
+E0955,2024,Johnny Miller,IT,Manager,57257,Active,2019-08-01,,051.625.9525x4373,milesjerome@yahoo.com
+E0956,2024,Taylor Silva,Operations,Analyst,65766,Resigned,2017-09-11,,001-679-844-3085x409,zachary51@hotmail.com
+E0957,2024,Scott Dorsey,Finance,Manager,32253,Active,2013-06-03,,056-695-1393x989,pdavis@hotmail.com
+E0958,2024,Nicole Butler,HR,Analyst,48881,Active,2022-03-22,2024-09-04,001-388-538-5188x289,watsonvirginia@gmail.com
+E0959,2024,Mark Cain,Operations,Developer,153139,Active,2013-10-17,2024-06-02,889-890-2251x664,amendoza@foster-duncan.biz
+E0960,2024,Gabriel Roth,Operations,,145165,Resigned,2013-11-05,,452.813.4128x80794,loganallen@gmail.com
+E0961,2024,Kendra Hardy,Marketing,Intern,70116,Active,2013-09-11,,1580802301,williamsmackenzie@gmail.com
+E0962,2024,Michael Love,HR,Senior Manager,108400,Active,2022-10-16,,(777)484-2319,kenneth91@yahoo.com
+E0963,2024,Richard Hall,IT,Analyst,42352,Active,2023-06-04,,175.296.1619x66591,gregorymorgan@yahoo.com
+E0964,2024,Margaret Taylor,HR,Senior Manager,102215,Active,2013-10-23,,(866)375-3270x092,gary82@hotmail.com
+E0965,2024,John Allen,HR,Senior Manager,102715,Active,2023-06-22,,001-608-038-5763,nathanthornton@hotmail.com
+E0966,2024,Ashley Johnson,Marketing,Analyst,131759,Active,2013-01-23,,419.632.9876,mathewsryan@rodriguez.com
+E0967,2024,Anthony Rich,Finance,Manager,134507,Active,2016-08-16,,(776)939-5447x277,cbutler@johnson-castillo.info
+E0968,2024,Kenneth Padilla,HR,Lead,55267,Active,2023-05-23,,987-942-2114,katie97@bailey.com
+E0969,2024,Jodi Trujillo,Marketing,Manager,68475,Active,2015-03-25,,438-957-5870x4836,oroberts@yahoo.com
+E0970,2024,Brittney Wells,Operations,Developer,144679,Resigned,2013-02-23,,550.069.1977,
+E0971,2024,Timothy Patel,HR,Lead,114762,Resigned,2019-02-25,,001-450-766-2492,nicholashall@hotmail.com
+E0972,2024,Loretta Bell,,Lead,102884,Active,2023-07-25,,479.342.8417,hoffmandenise@rubio.com
+E0973,2024,Kayla Tanner,Operations,Intern,83646,Active,2013-03-23,2024-09-09,107.875.5217,alexandermaxwell@yahoo.com
+E0974,2024,Dwayne Vaughn,Finance,Intern,56013,Resigned,2017-08-20,,,karen42@hotmail.com
+E0975,2024,Kelsey Hawkins,IT,Lead,45326,Resigned,2023-08-30,,,cynthia68@yahoo.com
+E0976,2024,Matthew Schroeder,Marketing,Lead,130363,Resigned,2017-09-02,,(194)943-1424x75814,paulhuerta@gmail.com
+E0977,2024,Adam Black,Marketing,Senior Manager,48199,Active,2017-11-06,,(133)834-3009x8718,diamond93@hotmail.com
+E0978,2024,Sabrina Fowler,Finance,Developer,113814,Active,2023-10-31,,,josephmcdonald@strickland.biz
+E0979,2024,Anthony Marshall,IT,Manager,142269,Resigned,2017-07-31,,694-528-1092,rebeccaforbes@yahoo.com
+E0980,2024,Laura Oneill,Sales,Intern,48378,Resigned,2015-09-16,,001-539-434-7228x064,jocelynchase@nelson.com
+E0981,2024,Jessica Collins,IT,Developer,56374,Active,2021-12-17,,539.033.0438x7878,uward@gmail.com
+E0982,2024,Melissa Hayes,IT,Analyst,126643,Resigned,2017-12-13,,001-111-010-0552x21742,frank43@hotmail.com
+E0983,2024,Charles Russell,Operations,Senior Manager,132548,Active,2017-03-27,,(325)266-8260,darren44@yahoo.com
+E0984,2024,Leslie Lin,Finance,Senior Manager,25475,Active,2015-06-19,,(031)732-3322x15395,martinmichael@arnold.com
+E0985,2024,Kenneth Anderson,IT,Senior Manager,114914,Active,2014-06-10,,(760)264-3450,maria80@klein.com
+E0986,2024,Cory Galloway,Finance,Intern,140186,Active,2013-09-18,,,jennifer65@hotmail.com
+E0987,2024,James Mitchell,Marketing,Manager,100536,Active,2020-02-01,,377.394.4719,norrismelissa@watts.com
+E0988,2024,Lisa Mitchell,Operations,Manager,55798,Active,2016-08-27,,680.050.5962x392,reidbrandi@yahoo.com
+E0989,2024,Margaret Coleman,HR,Senior Manager,72614,Active,2020-09-07,,,sharongreen@fuller.com
+E0990,2024,Elizabeth Smith,HR,Senior Manager,41273,Active,2022-06-29,2024-10-21,001-686-035-6326,afarrell@yahoo.com
+E0991,2024,John Kirby,IT,Analyst,146972,Resigned,2014-08-12,,+1-256-923-6118,brownkristin@mills.com
+E0992,2024,Angelica Strickland,Marketing,Senior Manager,48062,Active,2023-04-24,,,
+E0993,2024,Amy Parks,IT,Manager,128380,Resigned,2018-03-05,,367.894.8055,vjohnson@gmail.com
+E0994,2024,Zachary Wilkinson,Operations,Senior Manager,50755,Active,2018-01-17,,940-398-3805x909,cheryl79@stephenson-jones.com
+E0995,2024,Samuel Kirk,Finance,Senior Manager,152221,Active,2016-12-20,,001-281-602-5182x686,alexanderdickerson@hotmail.com
+E0996,2024,Sherri Wilson,Sales,Intern,124999,Active,2013-06-13,,(790)828-4645x217,
+E0997,2024,Jackie Baird,IT,Intern,148020,Active,2021-10-23,2024-11-01,001-106-436-3858,ltapia@stewart.com
+E0998,2024,Mr. Lawrence Hunt,Operations,Intern,34850,Active,2019-08-14,,113-595-5008,todd43@collins.net
+E0999,2024,Amy Merritt,Finance,Lead,79547,Resigned,2018-02-09,2024-12-18,+1-922-192-8786x353,greerolivia@smith-harris.com
+E1000,2024,Rebecca Perez,Sales,Intern,120375,Active,2021-10-31,,(508)506-3969x4318,timothy76@harris.org
